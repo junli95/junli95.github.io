@@ -1,4 +1,4 @@
-## Welcome to Jun Li's homepage 😉
+## Welcome to Jun Li's homepage <a href="Jun Li.pdf"><b>CV.pdf</b></a>
 
 Jun Li is currently a Ph.D at the Southwest University. He received his M.S. degree from Southwest University(supvervised by Dr. Jianwei Liao) in 2020. His research interest is in the area of flash memory and computer architecture.
 
