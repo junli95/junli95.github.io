@@ -1,6 +1,6 @@
 ## Welcome to Jun Li's homepage <a href="Jun Li.pdf"><b>CV.pdf</b></a>
 
-Jun Li is currently a Ph.D at the Southwest University. He received his M.S. degree from Southwest University(supvervised by Dr. Jianwei Liao) in 2020. His research interest is in the area of flash memory and computer architecture.
+Jun Li is currently a Ph.D at the Southwest University. He received his M.E. degree from Southwest University(supvervised by Dr. Jianwei Liao) in 2020. His research interest is in the area of flash memory and computer architecture.
 
 ## Publication
 
@@ -9,3 +9,9 @@ Jun Li is currently a Ph.D at the Southwest University. He received his M.S. deg
 (J2) <B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), accepted in 2020.
 
 (J1) <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), accepted in 2020.
+
+## Contact
+
+Email: lijun951111 at gmail dot com
+
+<a href="https://dblp.uni-trier.de/pid/116/1011-62.html">DBLP: Jun Li</a>
