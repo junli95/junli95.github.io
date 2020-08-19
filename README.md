@@ -14,4 +14,4 @@ Jun Li is currently a Ph.D at the Southwest University. He received his M.E. deg
 
 Email: lijun951111 at gmail dot com
 
-<a href="https://dblp.uni-trier.de/pid/116/1011-62.html">DBLP: Jun Li</a>
+<a href="https://dblp.uni-trier.de/pid/116/1011-62.html"  target="view_frame">DBLP: Jun Li</a>
