@@ -1,6 +1,6 @@
-## Welcome to Jun Li's homepage <a href="Jun Li.pdf"><b>CV.pdf</b></a>
+## Welcome to Jun Li's homepage
 
-Jun Li is currently a Ph.D at the Southwest University. He received his M.E. degree from Southwest University(supvervised by Dr. Jianwei Liao) in 2020. His research interest is in the area of flash memory and computer architecture.
+Jun Li is currently a Ph.D at the Southwest University. He received his M.E. degree from Southwest University (supvervised by Dr. Jianwei Liao) in 2020. His research interest is in the area of flash memory and computer architecture.
 
 ## Publication
 
@@ -13,5 +13,7 @@ Jun Li is currently a Ph.D at the Southwest University. He received his M.E. deg
 ## Contact
 
 Email: lijun951111 at gmail dot com
+
+<a href="Jun Li.pdf"  target="view_frame">CV</a>
 
 <a href="https://dblp.uni-trier.de/pid/116/1011-62.html"  target="view_frame">DBLP: Jun Li</a>
