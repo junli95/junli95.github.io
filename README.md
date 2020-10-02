@@ -4,13 +4,13 @@ Jun Li is currently a Ph.D Student at the Southwest University (supvervised by D
 
 ## Selected Publications
 
-<B>Journal:</B>
+<B>Journals:</B>
 
 <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. Appears as part of the ESWEEK-TCAD Special Issue, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), In print.
 
 <B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), September 2020.
 
-<B>conference:</B>
+<B>Conferences:</B>
 
 <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. International Conference on Compilers, Architecture, and Synthesis for Embedded Systems 2020 (CASES) in conjunction with (ESWEEK)
 (<B>Best Paper Nomination</B>)
