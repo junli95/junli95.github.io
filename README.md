@@ -1,7 +1,7 @@
 ## Welcome to Jun Li's homepage
 
-Jun Li is currently a Ph.D Student at the Southwest University (supvervised by Dr. <a href="https://dblp.uni-trier.de/pid/116/1011-62.html"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). He received his M.E. degree from Southwest University (supvervised by Dr. Jianwei Liao) in 2020. His research interest is in the area of flash memory and computer architecture.
-http://computer.swu.edu.cn/s/computer/szdw2js/20160428/914917.html
+Jun Li is currently a Ph.D Student at the Southwest University (supvervised by Dr. <a href="http://computer.swu.edu.cn/s/computer/szdw2js/20160428/914917.html"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). He received his M.E. degree from Southwest University (supvervised by Dr. Jianwei Liao) in 2020. His research interest is in the area of flash memory and computer architecture.
+
 ## Selected Publications
 
 <B>Journals:</B>
