@@ -17,6 +17,14 @@ Jun Li is currently a Ph.D Student at the Southwest University (supvervised by D
 
 <B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. In Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST ‘2019), pp. 126-133, May 2019.
 
+## Awards
+
+<B>Best Paper Candidate</B>, International Conference on Compilers, Architecture, and Synthesis for Embedded Systems 2020 (CASES) in conjunction with Embedded Systems Week (ESWEEK), 2020
+
+<B>Outstanding Dissertation and Master</B>, Southwest University, China, 2020
+
+<B>National Scholarship for Master Student</B>, China, 2019
+
 ## Contact
 
 Email: lijun951111 at gmail dot com
