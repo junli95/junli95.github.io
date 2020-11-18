@@ -23,7 +23,7 @@ Jun Li is currently a Ph.D Student at the Southwest University (supvervised by D
 
 <B>Outstanding Dissertation and Master</B>, Southwest University, China, 2020
 
-<B>National Scholarship for Master Student</B>, China, 2019
+<B>National Scholarship for Graduate Student</B>, China, 2019
 
 ## Contact
 
