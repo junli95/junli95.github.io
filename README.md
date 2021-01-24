@@ -12,7 +12,9 @@ Jun Li is currently a Ph.D Student at the Southwest University (supvervised by D
 
 <B>Conferences:</B>
 
-<B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. In Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST ‘2019), pp. 126-133, May 2019.
+Mingwang Zhao, Lianju Qian, <B>Jun Li</B>, Min Huang, Zhigang Cai, Jianwei Liao. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. In proceedings of the 24th International Conference on Design, Automation, and Test in Europe (DATE ’21), 2021, to appear.
+
+<B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. In Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST ‘19), pp. 126-133, May 2019.
 
 ## Awards
 
