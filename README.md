@@ -20,7 +20,7 @@ Mingwang Zhao, Lianju Qian, <B>Jun Li</B>, Min Huang, Zhigang Cai, Jianwei Liao.
 
 <B>Best Paper Candidate</B>, International Conference on Compilers, Architecture, and Synthesis for Embedded Systems 2020 (CASES) in conjunction with Embedded Systems Week (ESWEEK), 2020
 
-<B>Outstanding Dissertation and Master</B>, Southwest University, China, 2020
+<B>Outstanding Master Dissertation and Outstanding Master Graduate Student</B>, Southwest University, China, 2020
 
 <B>National Scholarship for Graduate Student</B>, China, 2019
 
