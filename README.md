@@ -3,21 +3,21 @@
 
 ## Biography
 
-Jun Li is currently a Ph.D Student at the Southwest University (supervised by Dr. <a href="http://computer.swu.edu.cn/s/computer/szdw2js/20160428/914917.html"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). He received his M.E. degree from Southwest University (supvervised by Dr. Jianwei Liao) in 2020. His research interest is in the area of flash memory and computer architecture.
+Jun Li is currently a first-year Ph.D Student at the Southwest University (supervised by Dr. <a href="http://computer.swu.edu.cn/s/computer/szdw2js/20160428/914917.html"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). He received his M.E. degree from Southwest University (supvervised by Dr. Jianwei Liao) in 2020. His research interest is in the area of flash memory and computer architecture.
 
 ## Selected Publications
 
 <B>Journals:</B>
 
-<B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) - ESWEEK-TCAD special issue, November 2020.
+<B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), 26(1): 3:1-3:24 (2021).
 
-<B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), September 2020.
+<B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 39(11): 3956-3967 (2020) (ESWEEK-TCAD special issue).
 
 <B>Conferences:</B>
 
 Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. In proceedings of the 24th International Conference on Design, Automation, and Test in Europe (DATE ’21), 2021, to appear.
 
-<B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. In Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST ‘19), pp. 126-133, May 2019.
+<B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. In Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST ‘19), pp. 126-133.
 
 ## Awards
 
