@@ -31,10 +31,11 @@ Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, Yuanquan Shi. Block Att
 
 Email: lijun951111 at gmail dot com
 
-Publication List:
+Full Publication List:
 <a href="https://dblp.uni-trier.de/pid/116/1011-62.html"  target="view_frame">DBLP</a>
 <a href="https://scholar.google.com/citations?user=cBNPS4YAAAAJ&hl=zh-CN&oi=sra"  target="view_frame">Google Scholar</a>
 
+Curriculum Vitae:
 <a href="Jun Li.pdf"  target="view_frame">CV</a>
 
 <a href="https://clustrmaps.com/site/1bh2g"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TthGBfDr71i-ZnwuJnTZoelvFFJMtZM58lojwOSsqZg&cl=ffffff" /></a>
