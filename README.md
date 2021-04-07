@@ -3,7 +3,7 @@
 
 ## Biography
 
-Jun Li is currently a first-year Ph.D Student at the Southwest University (supervised by Dr. <a href="http://computer.swu.edu.cn/s/computer/szdw2js/20160428/914917.html"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). He received his M.E. degree from Southwest University (supervised by Dr. Jianwei Liao) in 2020. His research interest is in the area of flash memory and computer architecture.
+Jun Li is currently a first-year Ph.D Student at the Southwest University (supervised by Dr. <a href="http://cis.swu.edu.cn/s/cis/js/20210331/4419103.html"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). I received his M.E. degree from Southwest University (supervised by Dr. Jianwei Liao) in 2020. My research interest is in the area of flash memory and computer architecture optimization.
 
 ## Selected Publications
 
