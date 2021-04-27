@@ -9,7 +9,7 @@ Jun Li is currently a first-year Ph.D Student at the Southwest University (super
 
 <B>Journals:</B>
 
-Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. ACM Transactions on Architecture and Code Optimization (TACO), 2021, to appear.<a href="taco.pdf"  target="view_frame">preprint</a>
+Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. ACM Transactions on Architecture and Code Optimization (TACO), 2021, to appear. <a href="taco.pdf"  target="view_frame">preprint</a>
 
 <B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), 26(1): 3:1-3:24 (2021).
 
