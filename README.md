@@ -17,7 +17,7 @@ Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Li
 
 <B>Conferences:</B>
 
-Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. In proceedings of the 24th International Conference on Design, Automation, and Test in Europe (DATE ’21), 2021, to appear. <a href="date.pdf"  target="view_frame">preprint</a>
+Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. In proceedings of the 24th International Conference on Design, Automation, and Test in Europe (DATE ’21), 2021, to appear. <a href="date2021.pdf"  target="view_frame">preprint</a>
 
 <B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. In Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST ‘19), pp. 126-133.
 
