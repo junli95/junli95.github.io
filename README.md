@@ -11,17 +11,17 @@ Jun Li is currently a first-year Ph.D Student at the Southwest University (super
 
 Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. ACM Transactions on Architecture and Code Optimization (TACO), 2021, to appear. <a href="taco.pdf"  target="view_frame">preprint</a>
 
-<B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), 26(1): 3:1-3:24 (2021).
+<B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, and Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), 26(1): 3:1-3:24 (2021).
 
-<B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 39(11): 3956-3967 (2020) (ESWEEK-TCAD special issue).
+<B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 39(11): 3956-3967 (2020) (ESWEEK-TCAD special issue).
 
 <B>Conferences:</B>
 
-<B>Jun Li</B>, Minjun Li, Zhigang Cai, Francois Trahay, Mohamed Wahib, Balazs Gerofi, Zhiming Liu, Min Huang, and Jianwei Liao. 2021. Intra-page Cache Update in SLC-mode with Partial Programming inHigh Density SSDs. In proceedings of International Conference on Parallel Processing (ICPP ’21), 2021, to appear.
+<B>Jun Li</B>, Minjun Li, Zhigang Cai, Francois Trahay, Mohamed Wahib, Balazs Gerofi, Zhiming Liu, Min Huang, and Jianwei Liao. 2021. Intra-page Cache Update in SLC-mode with Partial Programming in High Density SSDs. In proceedings of International Conference on Parallel Processing (ICPP ’21), 2021, to appear.
 
-Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. In proceedings of the 24th International Conference on Design, Automation, and Test in Europe (DATE ’21), 2021, to appear. <a href="date-preprint.pdf"  target="view_frame">preprint</a>
+Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. In proceedings of the 24th International Conference on Design, Automation, and Test in Europe (DATE ’21), 2021, to appear. <a href="date-preprint.pdf"  target="view_frame">preprint</a>
 
-<B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. In Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST ‘19), pp. 126-133.
+<B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, and Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. In Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST ‘19), pp. 126-133.
 
 ## Awards
 
