@@ -17,7 +17,7 @@ Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Li
 
 <B>Conferences:</B>
 
-<B>Jun Li</B>, Minjun Li, Zhigang Cai, Francois Trahay, Mohamed Wahib, Balazs Gerofi, Zhiming Liu, Min Huang, and Jianwei Liao. 2021. Intra-page Cache Update in SLC-mode with Partial Programming in High Density SSDs. In proceedings of International Conference on Parallel Processing (ICPP ’21), 2021, to appear.
+<B>Jun Li</B>, Minjun Li, Zhigang Cai, Francois Trahay, Mohamed Wahib, Balazs Gerofi, Zhiming Liu, Min Huang, and Jianwei Liao. Intra-page Cache Update in SLC-mode with Partial Programming in High Density SSDs. In proceedings of International Conference on Parallel Processing (ICPP ’21), 2021, to appear.
 
 Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. In proceedings of the 24th International Conference on Design, Automation, and Test in Europe (DATE ’21), 2021, to appear. <a href="date-preprint.pdf"  target="view_frame">preprint</a>
 
@@ -27,7 +27,7 @@ Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block
 
 <B>Best Paper Candidate</B>, International Conference on Compilers, Architecture, and Synthesis for Embedded Systems 2020 (CASES) in conjunction with Embedded Systems Week (ESWEEK), 2020
 
-<B>Outstanding Master Dissertation and Outstanding Master Graduate Student</B>, Southwest University, China, 2020
+<B>Outstanding Master Dissertation and Outstanding Master Graduates</B>, Southwest University, China, 2020
 
 <B>National Scholarship for Graduate Student</B>, China, 2019
 
