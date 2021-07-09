@@ -27,7 +27,7 @@ Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block
 
 ## Awards
 
-<B>PISEN Scholarship</B>, 2021
+<B>PISEN Scholarship</B>, Southwest University, China, 2021
 
 <B>Best Paper Candidate</B>, International Conference on Compilers, Architecture, and Synthesis for Embedded Systems 2020 (CASES) in conjunction with Embedded Systems Week (ESWEEK), 2020
 
