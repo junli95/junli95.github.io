@@ -9,7 +9,7 @@ Jun Li is currently a first-year Ph.D Student at the Southwest University (super
 
 <B>Journals:</B>
 
-<B>Jun Li</B>, Xiaofei Xu, Zhigang Cai, Jianwei Liao, Kenli Li, Balazs Gerofi, and Yutaka Ishikawa. 2021. Pattern-based Prefetching with Adaptive Cache Management Inside of Solid-State Drives. ACM Transactions on Storage (TOS), 2021, to appear.
+<B>Jun Li</B>, Xiaofei Xu, Zhigang Cai, Jianwei Liao, Kenli Li, Balazs Gerofi, and Yutaka Ishikawa. Pattern-based Prefetching with Adaptive Cache Management Inside of Solid-State Drives. ACM Transactions on Storage (TOS), 2021, to appear.
 
 Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. ACM Transactions on Architecture and Code Optimization (TACO), 2021, to appear. <a href="taco.pdf"  target="view_frame">preprint</a>
 
@@ -21,7 +21,7 @@ Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Li
 
 <B>Jun Li</B>, Minjun Li, Zhigang Cai, Francois Trahay, Mohamed Wahib, Balazs Gerofi, Zhiming Liu, Min Huang, and Jianwei Liao. Intra-page Cache Update in SLC-mode with Partial Programming in High Density SSDs. In proceedings of International Conference on Parallel Processing (ICPP ’21), 2021, to appear.
 
-Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. In proceedings of the 24th International Conference on Design, Automation, and Test in Europe (DATE ’21), 2021, to appear. <a href="date-preprint.pdf"  target="view_frame">preprint</a>
+Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. In proceedings of the 24th International Conference on Design, Automation, and Test in Europe (DATE ’21), pp. 1096-1099 2021.
 
 <B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, and Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. In Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST ‘19), pp. 126-133.
 
