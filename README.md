@@ -3,7 +3,7 @@
 
 ## Biography
 
-Jun Li is currently a first-year Ph.D Student at the Southwest University (supervised by Dr. <a href="http://cis.swu.edu.cn/s/cis/js/20210331/4419103.html"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). I received my M.E. degree from Southwest University (supervised by Dr. Jianwei Liao) in 2020. My research interest is in the area of flash memory and computer architecture optimization, and my research outcomes have been published in premier journals and conferences including TOS, TCAD, TODAES, TACO, MSST, ICPP, DATE.
+Jun Li is currently a second-year Ph.D Student at the Southwest University (supervised by Dr. <a href="http://cis.swu.edu.cn/s/cis/js/20210331/4419103.html"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). I received my M.E. degree from Southwest University (supervised by Dr. Jianwei Liao) in 2020. My research interest is in the area of flash memory and computer architecture optimization, and my research outcomes have been published in premier journals and conferences including TOS, TCAD, TODAES, TACO, MSST, ICPP, DATE.
 
 ## Selected Publications
 
@@ -11,7 +11,7 @@ Jun Li is currently a first-year Ph.D Student at the Southwest University (super
 
 <B>Jun Li</B>, Xiaofei Xu, Zhigang Cai, Jianwei Liao, Kenli Li, Balazs Gerofi, and Yutaka Ishikawa. Pattern-based Prefetching with Adaptive Cache Management Inside of Solid-State Drives. ACM Transactions on Storage (TOS), 2021, to appear.
 
-Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. ACM Transactions on Architecture and Code Optimization (TACO), 2021, to appear. <a href="taco.pdf"  target="view_frame">preprint</a>
+Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. ACM Transactions on Architecture and Code Optimization (TACO), 2021, to appear.
 
 <B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, and Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), 26(1): 3:1-3:24 (2021).
 
