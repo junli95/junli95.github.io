@@ -13,9 +13,9 @@ Jun Li is currently a second-year Ph.D Student at the Southwest University (supe
 
 Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. ACM Transactions on Architecture and Code Optimization (TACO), 18(4): 1-25, 2021.
 
-<B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, and Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), 26(1): 3:1-3:24 (2020).
+<B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, and Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), 26(1): 3:1-3:24, 2020.
 
-<B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 39(11): 3956-3967 (2020) (ESWEEK-TCAD special issue).
+<B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 39(11): 3956-3967, 2020 (ESWEEK-TCAD special issue).
 
 <B>Conferences:</B>
 
@@ -27,11 +27,11 @@ Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block
 
 ## Awards
 
-<B>PISEN Scholarship</B>, Southwest University, China, 2021
+PISEN Scholarship, Southwest University, China, 2021
 
-<B>Best Paper Candidate</B>, International Conference on Compilers, Architecture, and Synthesis for Embedded Systems 2020 (CASES) in conjunction with Embedded Systems Week (ESWEEK), 2020
+<B>Best Paper Candidate</B>, International Conference on Compilers, Architecture, and Synthesis for Embedded Systems 2020 (CASES) in part of Embedded Systems Week (ESWEEK), 2020
 
-<B>Outstanding Master Dissertation and Outstanding Master Graduates</B>, Southwest University, China, 2020
+Outstanding Master Dissertation and Outstanding Master Graduates, Southwest University, China, 2020
 
 <B>National Scholarship for Graduate Student</B>, China, 2019
 
