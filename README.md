@@ -9,7 +9,7 @@ Jun Li is currently a second-year Ph.D Student at the Southwest University (supe
 
 <B>Journals:</B>
 
-Jianwei Liao*, <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, and Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. ACM Transactions on Embedded Computing Systems (TECS), 2021, to appear. (*advisor)
+Jianwei Liao* , <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, and Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. ACM Transactions on Embedded Computing Systems (TECS), 2021, to appear. (* advisor)
 
 <B>Jun Li</B>, Xiaofei Xu, Zhigang Cai, Jianwei Liao, Kenli Li, Balazs Gerofi, and Yutaka Ishikawa. Pattern-based Prefetching with Adaptive Cache Management Inside of Solid-State Drives. ACM Transactions on Storage (TOS), 2021, to appear.
 
