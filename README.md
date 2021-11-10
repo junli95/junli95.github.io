@@ -27,7 +27,7 @@ Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block
 
 <B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, and Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. In Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST ‘19), pp. 126-133, 2019.
 
-## Awards
+## Honors and Awards
 
 <B>National Scholarship for PhD Graduate Student</B>, China, 2021
 
