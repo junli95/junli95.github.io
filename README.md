@@ -29,6 +29,8 @@ Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block
 
 ## Honors and Awards
 
+Student Grant (Young Student Fellow), DAC, 2021
+
 <B>Pacemaker to Outstanding Graduate Student</B>, Southwest University, China, 2021 (<B>Top 10 Graduate Student</B>)
 
 <B>National Scholarship for PhD Graduate Student</B>, China, 2021
