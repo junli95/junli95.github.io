@@ -9,6 +9,8 @@ Jun Li is currently a second-year Ph.D Student at the Southwest University (supe
 
 <B>Journals:</B>
 
+Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Min Huang, Jianwei Liao, and Francois Trahay. Degraded Mode benefited I/O Scheduling to Ensure I/O Responsiveness in RAID-enabled SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2022, to appear.
+
 Jianwei Liao* , <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, and Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. ACM Transactions on Embedded Computing Systems (TECS), 2021, to appear. (* advisor)
 
 <B>Jun Li</B>, Xiaofei Xu, Zhigang Cai, Jianwei Liao, Kenli Li, Balazs Gerofi, and Yutaka Ishikawa. Pattern-based Prefetching with Adaptive Cache Management Inside of Solid-State Drives. ACM Transactions on Storage (TOS), 2021, to appear.
