@@ -31,19 +31,19 @@ Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block
 
 ## Honors and Awards
 
-Student Grant (Young Student Fellow), DAC, 2021
+Outstanding Master Dissertation of Chongqing, 2021
 
-<B>Pacemaker to Outstanding Graduate Student</B>, Southwest University, China, 2021 (<B>Top 10 Graduate Student</B>)
+Student Grant (Young Student Fellow) from DAC, 2021
 
-<B>National Scholarship for PhD Graduate Student</B>, China, 2021
+<B>Pacemaker to Outstanding Graduate Student</B> of Southwest University, 2021 (<B>Top 10 Graduate Student</B>)
 
-PISEN Scholarship, Southwest University, China, 2021
+<B>National Scholarship for PhD Graduate Student</B>, 2021
 
-<B>Best Paper Candidate</B>, International Conference on Compilers, Architecture, and Synthesis for Embedded Systems 2020 (CASES) in part of Embedded Systems Week (ESWEEK), 2020
+PISEN Scholarship of Southwest University, 2021
 
-Outstanding Master Dissertation and Outstanding Master Graduates, Southwest University, China, 2020
+<B>Best Paper Candidate</B>, Embedded Systems Week (ESWEEK), 2020
 
-<B>National Scholarship for Master Graduate Student</B>, China, 2019
+<B>National Scholarship for Master Graduate Student</B>, 2019
 
 ## Contact
 
