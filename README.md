@@ -11,15 +11,15 @@ Jun Li is currently a second-year Ph.D Student at the Southwest University (supe
 
 Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Min Huang, Jianwei Liao, and Francois Trahay. Degraded Mode benefited I/O Scheduling to Ensure I/O Responsiveness in RAID-enabled SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2022, to appear.
 
-Jianwei Liao* , <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, and Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. ACM Transactions on Embedded Computing Systems (TECS), 2021, to appear. (* advisor)
+Jianwei Liao* , <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, and Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. ACM Transactions on Embedded Computing Systems (TECS), 21(2): 1-27, 2022. (* advisor)
 
-<B>Jun Li</B>, Xiaofei Xu, Zhigang Cai, Jianwei Liao, Kenli Li, Balazs Gerofi, and Yutaka Ishikawa. Pattern-based Prefetching with Adaptive Cache Management Inside of Solid-State Drives. ACM Transactions on Storage (TOS), 2021, to appear.
+<B>Jun Li</B>, Xiaofei Xu, Zhigang Cai, Jianwei Liao, Kenli Li, Balazs Gerofi, and Yutaka Ishikawa. Pattern-based Prefetching with Adaptive Cache Management Inside of Solid-State Drives. ACM Transactions on Storage (TOS), 18(1): 1-25, 2022.
 
 Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. ACM Transactions on Architecture and Code Optimization (TACO), 18(4): 1-25, 2021.
 
 <B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, and Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), 26(1): 3:1-3:24, 2020.
 
-<B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 39(11): 3956-3967, 2020 (ESWEEK-TCAD special issue).
+<B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 39(11): 3956-3967, 2020. (ESWEEK-TCAD special issue)
 
 <B>Conferences:</B>
 
@@ -31,19 +31,19 @@ Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block
 
 ## Honors and Awards
 
-<B>Outstanding Master Dissertation of Chongqing</B>, 2021
+Outstanding Master Dissertation of Chongqing, 2021
 
 Student Grant (Young Student Fellow) from DAC, 2021
 
-<B>Pacemaker to Outstanding Graduate Student</B> of Southwest University, 2021 (<B>Top 10 Graduate Student</B>)
+Pacemaker to Outstanding Graduate Student of Southwest University, 2021 (<B>Top 10 Graduate Student</B>)
 
-<B>National Scholarship for PhD Graduate Student</B>, 2021
+National Scholarship for PhD Graduate Student, 2021
 
 PISEN Scholarship of Southwest University, 2021
 
-<B>Best Paper Candidate</B>, Embedded Systems Week (ESWEEK), 2020
+Best Paper Candidate, Embedded Systems Week (ESWEEK), 2020
 
-<B>National Scholarship for Master Graduate Student</B>, 2019
+National Scholarship for Master Graduate Student, 2019
 
 ## Contact
 
