@@ -45,6 +45,11 @@ Best Paper Candidate, Embedded Systems Week (ESWEEK), 2020
 
 National Scholarship for Master Graduate Student, 2019
 
+## Activities
+
+As a reviewer for:
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+
 ## Contact
 
 Email: lijun951111 at gmail dot com
