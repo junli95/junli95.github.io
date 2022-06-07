@@ -31,6 +31,8 @@ Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block
 
 ## Honors and Awards
 
+Merit Student of Chongqing, 2021
+
 Outstanding Master Dissertation of Chongqing, 2021
 
 Student Grant (Young Student Fellow) from DAC, 2021
