@@ -41,7 +41,7 @@ Outstanding Master Dissertation of Chongqing, 2021
 
 Student Grant (Young Student Fellow) from DAC, 2021
 
-Pacemaker to Outstanding Graduate Student of Southwest University, 2021 (<B>Top 10 Graduate Student</B>)
+Pacemaker to Outstanding Graduate Student of Southwest University, 2021
 
 National Scholarship for PhD Graduate Student, 2021
 
