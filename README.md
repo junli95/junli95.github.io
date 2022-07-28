@@ -3,7 +3,7 @@
 
 ## Biography
 
-Jun Li is currently a visiting Ph.D Student at National Institute of Informatics (supervised by Prof. <a href="https://www.syssoft.nii.ac.jp/~ishikawa/bio.html.en"  target="view_frame">Yutaka Ishikawa</a>. I am also a second-year Ph.D Student at Southwest University (supervised by Prof. <a href="http://cis.swu.edu.cn/info/1013/1168.htm"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). I received my M.E. degree from Southwest University (supervised by Prof. Jianwei Liao) in 2020. My research interest is in the area of flash memory and computer architecture optimization, and my research outcomes have been published in premier journals and conferences including TOS, TCAD, TECS, TODAES, TACO, MSST, ICPP, DATE.
+Jun Li is currently a visiting Ph.D Student at National Institute of Informatics (supervised by Prof. <a href="https://www.syssoft.nii.ac.jp/~ishikawa/bio.html.en"  target="view_frame">Yutaka Ishikawa</a>. I am also a Ph.D Candidate at Southwest University (supervised by Prof. <a href="http://cis.swu.edu.cn/info/1013/1168.htm"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). I received my M.E. degree from Southwest University (supervised by Prof. Jianwei Liao) in 2020. My research interest is in the area of flash memory and computer architecture optimization, and my research outcomes have been published in premier journals and conferences including TOS, TCAD, TECS, TODAES, TACO, MSST, ICPP, DATE.
 
 ## Selected Publications
 
