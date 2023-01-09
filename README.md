@@ -11,6 +11,8 @@ Jun Li is currently a visiting Ph.D Student at National Institute of Informatics
 
 Jiaojiao Wu, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, and Jianwei Liao. Adaptive Switch on Wear Leveling for Enhancing I/O Latency and Lifetime of High-density SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022, to appear. (ESWEEK-TCAD special issue)
 
+Haodong Lin, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, and Jianwei Liao. Adaptive Management with Request Granularity for DRAM Cache inside NAND-based SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022, to appear.
+
 Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Min Huang, Jianwei Liao, and Francois Trahay. Degraded Mode benefited I/O Scheduling to Ensure I/O Responsiveness in RAID-enabled SSDs. ACM Transactions on Design Automation of Electronic Systems (TODAES), 2022, to appear.
 
 Jianwei Liao* , <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, and Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. ACM Transactions on Embedded Computing Systems (TECS), 21(2): 1-27, 2022. (* advisor)
@@ -24,6 +26,8 @@ Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Li
 <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 39(11): 3956-3967, 2020. (ESWEEK-TCAD special issue)
 
 <B>Conferences:</B>
+
+Fan yang, Chenqi Xiao, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. Out-of-channel data placement for balancing wear-out and I/O workloads in RAID-enabled SSDs. In proceedings of the 26th International Conference on Design, Automation, and Test in Europe (DATE ’23), 2023, to appear.
 
 Haodong Lin, Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, and Jianwei Liao. DRAM Cache Management with Request Granularity for NAND-based SSDs. In proceedings of the 51st International Conference on Parallel Processing (ICPP ’22), 2022, to appear.
 
