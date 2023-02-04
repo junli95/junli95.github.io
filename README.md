@@ -60,7 +60,9 @@ National Scholarship for Master Graduate Student, 2019
 ## Activities
 
 As a reviewer for:
+
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+
 ELSEVIER Journal of Systems Architecture (JSA)
 
 ## Contact
