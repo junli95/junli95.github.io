@@ -9,6 +9,8 @@ Jun Li is currently a visiting Ph.D Student at National Institute of Informatics
 
 <B>Journals:</B>
 
+Zhibing Sha, <B>Jun Li</B>, Fengxiang zhang, Min Huang, Zhigang Cai, Francois Trahay, and Jianwei Liao. 2022. Visibility Graph-based Cache Management for DRAM Buffer Inside Solid-State Drives. ACM Transactions on Storage (TOS), 2023, to appear. <a href="TOS-Sha.pdf"  target="view_frame">Preprint</a>
+
 Jiaojiao Wu, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, and Jianwei Liao. Adaptive Switch on Wear Leveling for Enhancing I/O Latency and Lifetime of High-density SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022, to appear. (ESWEEK-TCAD special issue)
 
 Haodong Lin, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, and Jianwei Liao. Adaptive Management with Request Granularity for DRAM Cache inside NAND-based SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022, to appear.
