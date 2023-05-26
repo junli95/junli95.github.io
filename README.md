@@ -32,6 +32,8 @@ Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Li
 <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhigang Cai, Jianwei Liao. Rep-RAID: An Integrated Approach to Optimizing Data
 Replication and Garbage Collection in RAID-enabled SSDs. In proceedings of the 24th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES '23), 2023, to appear.
 
+Jianwei Liao, Jiewen Tang, <B>Jun Li</B>, Junhao Luo, Chenqi Xiao, Zhigang Cai, Lei Chen. Modeling Retention Errors on Modern 3D-Flash Products. In proceedings of the 56th IEEE International Symposium on Circuits and Systems (ISCAS ’23), 2023, to appear.
+
 Fan Yang, Chenqi Xiao, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. Out-of-channel data placement for balancing wear-out and I/O workloads in RAID-enabled SSDs. In proceedings of the 26th International Conference on Design, Automation, and Test in Europe (DATE ’23), 2023, to appear.
 
 Haodong Lin, Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, and Jianwei Liao. DRAM Cache Management with Request Granularity for NAND-based SSDs. In proceedings of the 51st International Conference on Parallel Processing (ICPP ’22), 2022, to appear.
