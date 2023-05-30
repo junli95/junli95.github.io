@@ -72,6 +72,8 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T
 
 ELSEVIER Journal of Systems Architecture (JSA)
 
+The 7th International Conference on Computer Science and Application Engineering (CSAE '23)
+
 ## Contact
 
 Email: lijun951111 at gmail dot com
