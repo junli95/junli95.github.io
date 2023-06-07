@@ -30,7 +30,7 @@ Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Li
 <B>Conferences:</B>
 
 <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhigang Cai, Jianwei Liao. Rep-RAID: An Integrated Approach to Optimizing Data
-Replication and Garbage Collection in RAID-enabled SSDs. In proceedings of the 24th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES '23), 2023, to appear.
+Replication and Garbage Collection in RAID-enabled SSDs. In proceedings of the 24th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES '23), 2023, to appear. <a href="lctes23-Li.pdf"  target="view_frame">Preprint</a>
 
 Jianwei Liao, Jiewen Tang, <B>Jun Li</B>, Junhao Luo, Chenqi Xiao, Zhigang Cai, Lei Chen. Modeling Retention Errors on Modern 3D-Flash Products. In proceedings of the 56th IEEE International Symposium on Circuits and Systems (ISCAS ’23), 2023, to appear.
 
