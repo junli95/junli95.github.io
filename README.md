@@ -9,7 +9,9 @@ Jun Li is currently a visiting Ph.D Student at National Institute of Informatics
 
 <B>Journals:</B>
 
-Zhibing Sha, <B>Jun Li</B>, Fengxiang zhang, Min Huang, Zhigang Cai, Francois Trahay, and Jianwei Liao. 2022. Visibility Graph-based Cache Management for DRAM Buffer Inside Solid-State Drives. ACM Transactions on Storage (TOS), 2023. <a href="TOS-Sha.pdf"  target="view_frame">PDF</a>
+Zhibing Sha, <B>Jun Li</B>, Fengxiang Zhang, Min Huang, Zhigang Cai, Francois Trahay, and Jianwei Liao. 2022. Visibility Graph-based Cache Management for DRAM Buffer Inside Solid-State Drives. ACM Transactions on Storage (TOS), 2023. <a href="TOS-Sha.pdf"  target="view_frame">PDF</a>
+
+Chengyong Tang, Zhibing Sha, <B>Jun Li</B>, Haodong Lin, Lei Chen, Jianwei Liao. Sequential Packaging-Based Cache Eviction for Ssd-Hdd Hybrid Storage. Journal of Systems Architecture, 2023.
 
 Jiaojiao Wu, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, and Jianwei Liao. Adaptive Switch on Wear Leveling for Enhancing I/O Latency and Lifetime of High-density SSDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 41(11): 4040-4051, 2022. (ESWEEK-TCAD special issue)
 
@@ -31,6 +33,8 @@ Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Li
 
 <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhigang Cai, Jianwei Liao. Rep-RAID: An Integrated Approach to Optimizing Data
 Replication and Garbage Collection in RAID-enabled SSDs. In proceedings of the 24th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES '23), 2023, to appear. <a href="lctes23-Li.pdf"  target="view_frame">PDF</a>
+
+Zhigang Cai, Chengyong Tang, Minjun Li, Francois Trahay, <B>Jun Li</B>, Zhibing Sha, Jiaojiao Wu, Fan Yang, Jianwei Liao. In proceedings of the 52nd International Conference on Parallel Processing (ICPP ’23), 2023, to appear.
 
 Jianwei Liao, Jiewen Tang, <B>Jun Li</B>, Junhao Luo, Chenqi Xiao, Zhigang Cai, Lei Chen. Modeling Retention Errors on Modern 3D-Flash Products. In proceedings of the 56th IEEE International Symposium on Circuits and Systems (ISCAS ’23), 2023, to appear.
 
