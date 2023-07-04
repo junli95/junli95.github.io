@@ -9,7 +9,7 @@ Jun Li is a Ph.D Candidate at Southwest University (supervised by Prof. <a href=
 
 <B>Journals:</B>
 
-Zhibing Sha, Jiaojiao Wu, <B>Jun Li</B>, Balazs Gerofi, Zhigang Cai, and Jianwei Liao. Proactive Stripe Reconstruction to Improve Cache Use Efficiency of SSD-Based RAID Systems. ACM Transactions on Embedded Computing Systems (TECS). 2023
+Zhibing Sha, Jiaojiao Wu, <B>Jun Li</B>, Balazs Gerofi, Zhigang Cai, and Jianwei Liao. Proactive Stripe Reconstruction to Improve Cache Use Efficiency of SSD-Based RAID Systems. ACM Transactions on Embedded Computing Systems (TECS). 2023. (ESWEEK-TECS special issue)
 
 Zhibing Sha, <B>Jun Li</B>, Fengxiang Zhang, Min Huang, Zhigang Cai, Francois Trahay, and Jianwei Liao. 2022. Visibility Graph-based Cache Management for DRAM Buffer Inside Solid-State Drives. ACM Transactions on Storage (TOS), 2023. <a href="TOS-Sha.pdf"  target="view_frame">PDF</a>
 
