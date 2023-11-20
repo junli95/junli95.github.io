@@ -60,7 +60,7 @@ Merit Student of Chongqing, 2022
 
 Outstanding Master Dissertation of Chongqing, 2021
 
-Student Grant (Young Student Fellow) from DAC, 2021
+DAC Young Fellow, 2021
 
 Pacemaker to Outstanding Graduate Student of Southwest University, 2021
 
