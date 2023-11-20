@@ -33,6 +33,8 @@ Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Li
 
 <B>Conferences:</B>
 
+Shuaiwen Yu, zhibing sha, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Adaptive DRAM Cache Division for Computational Solid-state Drives. In proceedings of the 27th International Conference on Design, Automation, and Test in Europe (DATE ’24), pp. 1-6, 2024.
+
 <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhigang Cai, Jianwei Liao. Rep-RAID: An Integrated Approach to Optimizing Data
 Replication and Garbage Collection in RAID-enabled SSDs. In proceedings of the 24th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES '23), 2023, to appear.
 
