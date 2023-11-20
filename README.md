@@ -33,7 +33,7 @@ Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Li
 
 <B>Conferences:</B>
 
-Shuaiwen Yu, Zhibing Sha, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Adaptive DRAM Cache Division for Computational Solid-state Drives. <i>27th International Conference on Design, Automation, and Test in Europe (DATE ’24)</i>, pp. 1-6, 2024.
+Shuaiwen Yu, Zhibing Sha, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Adaptive DRAM Cache Division for Computational Solid-state Drives. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’24)</i>, pp. 1-6, 2024.
 
 <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhigang Cai, Jianwei Liao. Rep-RAID: An Integrated Approach to Optimizing Data
 Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES '23)</i>, pp. 99-110, 2023.
@@ -42,13 +42,13 @@ Zhigang Cai, Chengyong Tang, Minjun Li, Francois Trahay, <B>Jun Li</B>, Zhibing 
 
 Jianwei Liao, Jiewen Tang, <B>Jun Li</B>, Junhao Luo, Chenqi Xiao, Zhigang Cai, Lei Chen. Modeling Retention Errors on Modern 3D-Flash Products. <i>IEEE International Symposium on Circuits and Systems (ISCAS ’23)</i>, pp. 1-5, 2023.
 
-Fan Yang, Chenqi Xiao, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. Out-of-channel data placement for balancing wear-out and I/O workloads in RAID-enabled SSDs. <i>International Conference on Design, Automation, and Test in Europe (DATE ’23)</i>, pp. 1-6, 2023.
+Fan Yang, Chenqi Xiao, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. Out-of-channel data placement for balancing wear-out and I/O workloads in RAID-enabled SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’23)</i>, pp. 1-6, 2023.
 
 Haodong Lin, Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, and Jianwei Liao. DRAM Cache Management with Request Granularity for NAND-based SSDs. <i>International Conference on Parallel Processing (ICPP ’22)</i>, pp. 1–10, 2022.
 
 <B>Jun Li</B>, Minjun Li, Zhigang Cai, Francois Trahay, Mohamed Wahib, Balazs Gerofi, Zhiming Liu, Min Huang, and Jianwei Liao. Intra-page Cache Update in SLC-mode with Partial Programming in High Density SSDs. <i>International Conference on Parallel Processing (ICPP ’21)</i>, pp. 1–10, 2021.
 
-Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. <i>International Conference on Design, Automation, and Test in Europe (DATE ’21)</i>, pp. 1096-1099, 2021.
+Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’21)</i>, pp. 1096-1099, 2021.
 
 <B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, and Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. <i>International Conference on Massive Storage Systems and Technology (MSST ‘19)</i>, pp. 126-133, 2019.
 
