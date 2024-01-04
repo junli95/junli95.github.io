@@ -30,6 +30,10 @@ Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block
 
 <B>Journals:</B>
 
+Jiaojiao Wu, Zhigang Cai, Fan Yang, <B>Jun Li</B>, Francois Trahay, Zheng Yang, Chao Wang, Jianwei Liao. Polling Sanitization to Balance I/O Latency and Data Security of High-density SSDs. <i>ACM Transactions on Storage (TOS)</i>, 2024.
+
+Haodong Lin, Junhao Luo, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Yuanquan Shi, Jianwei Liao. Fast Online Reconstruction for SSD-based RAID-5 Storage Systems. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2023.
+
 Zhibing Sha, Jiaojiao Wu, <B>Jun Li</B>, Balazs Gerofi, Zhigang Cai, and Jianwei Liao. Proactive Stripe Reconstruction to Improve Cache Use Efficiency of SSD-Based RAID Systems. <i>ACM Transactions on Embedded Computing Systems (TECS)</i>, 2023. (ESWEEK-TECS special issue)
 
 Zhibing Sha, <B>Jun Li</B>, Fengxiang Zhang, Min Huang, Zhigang Cai, Francois Trahay, and Jianwei Liao. 2022. Visibility Graph-based Cache Management for DRAM Buffer Inside Solid-State Drives. <i>ACM Transactions on Storage (TOS)</i>, 2023.
