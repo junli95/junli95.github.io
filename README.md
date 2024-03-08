@@ -81,6 +81,8 @@ National Scholarship for Master Graduate Student, 2019
 
 As a reviewer for:
 
+ACM Transactions on Architecture and Code Optimization (TACO)
+
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
 Journal of Systems Architecture (JSA)
