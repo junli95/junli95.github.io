@@ -13,8 +13,6 @@ Li Cai, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. PhasedRR: Read Re
 
 Fan Yang, Zhigang Cai, <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhibing Sha, Mingwang Zhao, Jianwei Liao. Adaptive Selection of Parity Chunk Update Methods in RAID-enabled SSDs. <i>International Conference on Massive Storage Systems and Technology (MSST ‘24)</i>, 2024.
 
-<i>International Conference on Massive Storage Systems and Technology (MSST ‘24)</i>, 2024.
-
 Shuaiwen Yu, Zhibing Sha, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Adaptive DRAM Cache Division for Computational Solid-state Drives. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’24)</i>, pp. 1-6, 2024.
 
 <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhigang Cai, Jianwei Liao. Rep-RAID: An Integrated Approach to Optimizing Data
