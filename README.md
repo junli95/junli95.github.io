@@ -89,9 +89,9 @@ ACM Transactions on Architecture and Code Optimization (TACO)
 
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
-Journal of Systems Architecture (JSA)
+Elsevier Journal of Systems Architecture (JSA)
 
-Journal of Computer Science and Technology (JCST)
+Springer Journal of Computer Science and Technology (JCST)
 
 The 7th International Conference on Computer Science and Application Engineering (CSAE '23)
 
