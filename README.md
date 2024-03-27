@@ -93,7 +93,7 @@ Elsevier Journal of Systems Architecture (JSA)
 
 Springer Journal of Computer Science and Technology (JCST)
 
-The 7th International Conference on Computer Science and Application Engineering (CSAE '23)
+The 7th International Conference on Computer Science and Application Engineering (CSAE ‘23)
 
 ## Contact
 
