@@ -20,6 +20,7 @@ Jun Li is a Ph.D. Candidate at Southwest University (supervised by Prof. <a href
 
 
 # 🔥 News
+
 - *2024.04*: One paper is accepted by ACM TODAES.
 - *2024.03*: Two papers are accepted by MSST 2024.
 
@@ -90,6 +91,11 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 - <B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, and Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. <i>International Conference on Massive Storage Systems and Technology (MSST ’19)</i>, pp. 126-133, 2019.
 
 # 🎖 Honors and Awards
+
+- Outstanding Graduate Student of Chongqing, 2024
+
+- Gold medal of Chongqing, China College Students' 'Internet+’ Innovation and Entrepreneurship Competition, 2023 (Team leader)
+
 - National Scholarship for PhD Graduate Student, 2022
 
 - Merit Student of Chongqing, 2022
@@ -98,7 +104,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - DAC Young Fellow, 2021
 
-- Pacemaker to Outstanding Graduate Student of Southwest University, 2021
+- Pacemaker to Outstanding Graduate Student of Southwest University, 2021 (Top 10 per year)
 
 - National Scholarship for PhD Graduate Student, 2021
 
@@ -110,6 +116,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 <span class='anchor' id='-Activities'></span>
 # 💬 Activities
+
 As a reviewer for:
 
 - ACM Transactions on Architecture and Code Optimization (TACO)
