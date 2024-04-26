@@ -94,7 +94,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - Outstanding Graduate Student of Chongqing, 2024
 
-- Gold medal of Chongqing, China College Students' 'Internet+’ Innovation and Entrepreneurship Competition, 2023 (Team leader)
+- Gold Award of Chongqing, China International College Students’ “Internet+” Innovation and Entrepreneurship Competition, 2023 (Team leader)
 
 - National Scholarship for PhD Graduate Student, 2022
 
