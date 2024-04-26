@@ -27,6 +27,7 @@ Jun Li is a Ph.D. Candidate at Southwest University (supervised by Prof. <a href
 # 📝 Publications 
 
 <B>2024</B>
+
 Li Cai, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. PhasedRR: Read Reclaim Scheduling without Page-level Access Counting. <i>International Conference on Massive Storage Systems and Technology (MSST ’24)</i>, 2024.
 
 Fan Yang, Zhigang Cai, <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhibing Sha, Mingwang Zhao, Jianwei Liao. Adaptive Selection of Parity Chunk Update Methods in RAID-enabled SSDs. <i>International Conference on Massive Storage Systems and Technology (MSST ’24)</i>, 2024.
@@ -38,6 +39,7 @@ Jiaojiao Wu, Zhigang Cai, Fan Yang, <B>Jun Li</B>, Francois Trahay, Zheng Yang, 
 Shuaiwen Yu, Zhibing Sha, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Adaptive DRAM Cache Division for Computational Solid-state Drives. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’24)</i>, pp. 1-6, 2024.
 
 <B>2023</B>
+
 <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhigang Cai, Jianwei Liao. Rep-RAID: An Integrated Approach to Optimizing Data
 Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES '23)</i>, pp. 99-110, 2023.
 
@@ -56,6 +58,7 @@ Zhibing Sha, <B>Jun Li</B>, Fengxiang Zhang, Min Huang, Zhigang Cai, Francois Tr
 Chengyong Tang, Zhibing Sha, <B>Jun Li</B>, Haodong Lin, Lei Chen, Jianwei Liao. Sequential Packaging-Based Cache Eviction for Ssd-Hdd Hybrid Storage. <i>Journal of Systems Architecture (JSA)</i>, 2023.
 
 <B>2022</B>
+
 Haodong Lin, Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, and Jianwei Liao. DRAM Cache Management with Request Granularity for NAND-based SSDs. <i>International Conference on Parallel Processing (ICPP ’22)</i>, pp. 1–10, 2022.
 
 Jiaojiao Wu, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, and Jianwei Liao. Adaptive Switch on Wear Leveling for Enhancing I/O Latency and Lifetime of High-density SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 41(11): 4040-4051, 2022. (ESWEEK-TCAD special issue)
@@ -69,6 +72,7 @@ Jianwei Liao* , <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, and Zhigang Cai. Read
 <B>Jun Li</B>, Xiaofei Xu, Zhigang Cai, Jianwei Liao, Kenli Li, Balazs Gerofi, and Yutaka Ishikawa. Pattern-based Prefetching with Adaptive Cache Management Inside of Solid-State Drives. <i>ACM Transactions on Storage (TOS)</i>, 18(1): 1-25, 2022.
 
 <B>2021</B>
+
 <B>Jun Li</B>, Minjun Li, Zhigang Cai, Francois Trahay, Mohamed Wahib, Balazs Gerofi, Zhiming Liu, Min Huang, and Jianwei Liao. Intra-page Cache Update in SLC-mode with Partial Programming in High Density SSDs. <i>International Conference on Parallel Processing (ICPP ’21)</i>, pp. 1–10, 2021.
 
 Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’21)</i>, pp. 1096-1099, 2021.
@@ -76,12 +80,14 @@ Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block
 Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. <i>ACM Transactions on Architecture and Code Optimization (TACO)</i>, 18(4): 1-25, 2021.
 
 <B>2020</B>
+
 <B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, and Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 26(1): 3:1-3:24, 2020.
 
 <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 39(11): 3956-3967, 2020. (ESWEEK-TCAD special issue) <br>
 <B>Best Paper Candidate</B>
 
 <B>2019</B>
+
 <B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, and Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. <i>International Conference on Massive Storage Systems and Technology (MSST ‘19)</i>, pp. 126-133, 2019.
 
 # 🎖 Honors and Awards
