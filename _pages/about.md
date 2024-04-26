@@ -15,7 +15,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<span class='anchor' id='-Activities'></span>
+<span class='anchor' id='activities'></span>
 
 Jun Li is a Ph.D. Candidate at Southwest University (supervised by Prof. <a href="http://cis.swu.edu.cn/info/1013/1168.htm"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). I was a one-year Visiting Ph.D. Student at National Institute of Informatics (supervised by Prof. <a href="https://www.nii.ac.jp/en/faculty/architecture/ishikawa_yutaka/"  target="view_frame">Yutaka Ishikawa</a>) during 2022-2023. My research interest is in the area of flash memory and computer architecture optimization, and my research outcomes have been published in premier journals and conferences including TOS, TCAD, TECS, TODAES, TACO, JSA, MSST, LCTES, ICPP, DATE, ISCAS.
 
