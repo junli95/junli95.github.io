@@ -87,7 +87,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 <B>2019</B>
 
-- <B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, and Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. <i>International Conference on Massive Storage Systems and Technology (MSST ‘19)</i>, pp. 126-133, 2019.
+- <B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, and Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. <i>International Conference on Massive Storage Systems and Technology (MSST ’19)</i>, pp. 126-133, 2019.
 
 # 🎖 Honors and Awards
 - National Scholarship for PhD Graduate Student, 2022
