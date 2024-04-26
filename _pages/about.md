@@ -26,7 +26,7 @@ Jun Li is a Ph.D. Candidate at Southwest University (supervised by Prof. <a href
 
 <B>Conferences:</B>
 
-Li Cai, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. PhasedRR: Read Reclaim Scheduling without Page-level Access Counting. <i>International Conference on Massive Storage Systems and Technology (MSST ‘24)</i>, 2024.
+Li Cai, **Jun Li**, Zhibing Sha, Zhigang Cai, Jianwei Liao. PhasedRR: Read Reclaim Scheduling without Page-level Access Counting. <i>International Conference on Massive Storage Systems and Technology (MSST ‘24)</i>, 2024.
 
 Fan Yang, Zhigang Cai, <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhibing Sha, Mingwang Zhao, Jianwei Liao. Adaptive Selection of Parity Chunk Update Methods in RAID-enabled SSDs. <i>International Conference on Massive Storage Systems and Technology (MSST ‘24)</i>, 2024.
 
