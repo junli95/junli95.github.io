@@ -113,3 +113,5 @@ Springer Journal of Computer Science and Technology (JCST)
 Springer Computing
 
 The 7th International Conference on Computer Science and Application Engineering (CSAE ‘23)
+
+<a href="https://clustrmaps.com/site/1bh2g"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TthGBfDr71i-ZnwuJnTZoelvFFJMtZM58lojwOSsqZg&cl=ffffff" /></a>
