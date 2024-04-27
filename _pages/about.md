@@ -37,18 +37,18 @@ Jun Li is a Ph.D. Candidate at Southwest University (supervised by Prof. <a href
 
 - Jiaojiao Wu, Zhigang Cai, Fan Yang, <B>Jun Li</B>, Francois Trahay, Zheng Yang, Chao Wang, Jianwei Liao. Polling Sanitization to Balance I/O Latency and Data Security of High-density SSDs. <i>ACM Transactions on Storage (TOS)</i>, 2024. <font color="#FF0000">(CCF-A)
 
-- Shuaiwen Yu, Zhibing Sha, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Adaptive DRAM Cache Division for Computational Solid-state Drives. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’24)</i>, pp. 1-6, 2024. <font color="#FF0000">(CCF-B)
+- Shuaiwen Yu, Zhibing Sha, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Adaptive DRAM Cache Division for Computational Solid-state Drives. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’24)</i>, 2024. <font color="#FF0000">(CCF-B)
 
 <B>2023</B>
 
 - <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhigang Cai, Jianwei Liao. Rep-RAID: An Integrated Approach to Optimizing Data
-Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES '23)</i>, pp. 99-110, 2023. <font color="#FF0000">(CCF-B)
+Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES '23)</i>, 2023. <font color="#FF0000">(CCF-B)
 
-- Zhigang Cai, Chengyong Tang, Minjun Li, Francois Trahay, <B>Jun Li</B>, Zhibing Sha, Jiaojiao Wu, Fan Yang, Jianwei Liao. Re-aligning Across-page Requests for Flash-based Solid-state Drives. <i>International Conference on Parallel Processing (ICPP ’23)</i>, pp. 736-745, 2023. <font color="#FF0000">(CCF-B)
+- Zhigang Cai, Chengyong Tang, Minjun Li, Francois Trahay, <B>Jun Li</B>, Zhibing Sha, Jiaojiao Wu, Fan Yang, Jianwei Liao. Re-aligning Across-page Requests for Flash-based Solid-state Drives. <i>International Conference on Parallel Processing (ICPP ’23)</i>, 2023. <font color="#FF0000">(CCF-B)
 
-- Jianwei Liao, Jiewen Tang, <B>Jun Li</B>, Junhao Luo, Chenqi Xiao, Zhigang Cai, Lei Chen. Modeling Retention Errors on Modern 3D-Flash Products. <i>IEEE International Symposium on Circuits and Systems (ISCAS ’23)</i>, pp. 1-5, 2023.
+- Jianwei Liao, Jiewen Tang, <B>Jun Li</B>, Junhao Luo, Chenqi Xiao, Zhigang Cai, Lei Chen. Modeling Retention Errors on Modern 3D-Flash Products. <i>IEEE International Symposium on Circuits and Systems (ISCAS ’23)</i>, 2023.
 
-- Fan Yang, Chenqi Xiao, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. Out-of-channel data placement for balancing wear-out and I/O workloads in RAID-enabled SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’23)</i>, pp. 1-6, 2023. <font color="#FF0000">(CCF-B)
+- Fan Yang, Chenqi Xiao, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. Out-of-channel data placement for balancing wear-out and I/O workloads in RAID-enabled SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’23)</i>, 2023. <font color="#FF0000">(CCF-B)
 
 - Haodong Lin, Junhao Luo, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Yuanquan Shi, Jianwei Liao. Fast Online Reconstruction for SSD-based RAID-5 Storage Systems. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2023. <font color="#FF0000">(CCF-A)
 
@@ -60,39 +60,39 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 <B>2022</B>
 
-- Haodong Lin, Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, and Jianwei Liao. DRAM Cache Management with Request Granularity for NAND-based SSDs. <i>International Conference on Parallel Processing (ICPP ’22)</i>, pp. 1–10, 2022. <font color="#FF0000">(CCF-B)
+- Haodong Lin, Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, and Jianwei Liao. DRAM Cache Management with Request Granularity for NAND-based SSDs. <i>International Conference on Parallel Processing (ICPP ’22)</i>, 2022. <font color="#FF0000">(CCF-B)
 
-- Guodong Peng, <B>Jun Li</B>, Mingwang Zhao, Minjun Li, Zhibing Sha, Min Huang, and Zhigang Cai. Delaying Large Write Requests to Trade off I/O Performance and Long-Tail Latency in SSDs. <i>IEEE International Conference on High Performance Computing and Communications (HPCC ’22)</i>, pp. 1249-1254, 2022.
+- Guodong Peng, <B>Jun Li</B>, Mingwang Zhao, Minjun Li, Zhibing Sha, Min Huang, and Zhigang Cai. Delaying Large Write Requests to Trade off I/O Performance and Long-Tail Latency in SSDs. <i>IEEE International Conference on High Performance Computing and Communications (HPCC ’22)</i>, 2022.
 
-- Jiaojiao Wu, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, and Jianwei Liao. Adaptive Switch on Wear Leveling for Enhancing I/O Latency and Lifetime of High-density SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 41(11): 4040-4051, 2022. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A)
+- Jiaojiao Wu, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, and Jianwei Liao. Adaptive Switch on Wear Leveling for Enhancing I/O Latency and Lifetime of High-density SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2022. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A)
 
 - Haodong Lin, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, and Jianwei Liao. Adaptive Management with Request Granularity for DRAM Cache inside NAND-based SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2022. <font color="#FF0000">(CCF-A)
 
-- Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Min Huang, Jianwei Liao, and Francois Trahay. Degraded Mode benefited I/O Scheduling to Ensure I/O Responsiveness in RAID-enabled SSDs. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 27(6): 1-24, 2022. <font color="#FF0000">(CCF-B)
+- Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Min Huang, Jianwei Liao, and Francois Trahay. Degraded Mode benefited I/O Scheduling to Ensure I/O Responsiveness in RAID-enabled SSDs. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 2022. <font color="#FF0000">(CCF-B)
 
-- Jianwei Liao&#42;, <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, and Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. <i>ACM Transactions on Embedded Computing Systems (TECS)</i>, 21(2): 1-27, 2022. (&#42;Ph.D advisor) <font color="#FF0000">(CCF-B) 
+- Jianwei Liao&#42;, <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, and Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. <i>ACM Transactions on Embedded Computing Systems (TECS)</i>, 2022. (&#42;Ph.D advisor) <font color="#FF0000">(CCF-B) 
 
-- <B>Jun Li</B>, Xiaofei Xu, Zhigang Cai, Jianwei Liao, Kenli Li, Balazs Gerofi, and Yutaka Ishikawa. Pattern-based Prefetching with Adaptive Cache Management Inside of Solid-State Drives. <i>ACM Transactions on Storage (TOS)</i>, 18(1): 1-25, 2022. <font color="#FF0000">(CCF-A)
+- <B>Jun Li</B>, Xiaofei Xu, Zhigang Cai, Jianwei Liao, Kenli Li, Balazs Gerofi, and Yutaka Ishikawa. Pattern-based Prefetching with Adaptive Cache Management Inside of Solid-State Drives. <i>ACM Transactions on Storage (TOS)</i>, 2022. <font color="#FF0000">(CCF-A)
 
 <B>2021</B>
 
-- <B>Jun Li</B>, Minjun Li, Zhigang Cai, Francois Trahay, Mohamed Wahib, Balazs Gerofi, Zhiming Liu, Min Huang, and Jianwei Liao. Intra-page Cache Update in SLC-mode with Partial Programming in High Density SSDs. <i>International Conference on Parallel Processing (ICPP ’21)</i>, pp. 1–10, 2021. <font color="#FF0000">(CCF-B)
+- <B>Jun Li</B>, Minjun Li, Zhigang Cai, Francois Trahay, Mohamed Wahib, Balazs Gerofi, Zhiming Liu, Min Huang, and Jianwei Liao. Intra-page Cache Update in SLC-mode with Partial Programming in High Density SSDs. <i>International Conference on Parallel Processing (ICPP ’21)</i>, 2021. <font color="#FF0000">(CCF-B)
 
-- Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’21)</i>, pp. 1096-1099, 2021. <font color="#FF0000">(CCF-B)
+- Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’21)</i>, 2021. <font color="#FF0000">(CCF-B)
 
-- Haodong Lin, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. A Novel CFLRU-Based Cache Management Approach for NAND-Based SSDs. <i> IFIP International Conference on Network and Parallel Computing (NPC ’21)</i>, pp. 214-225, 2021.
+- Haodong Lin, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. A Novel CFLRU-Based Cache Management Approach for NAND-Based SSDs. <i> IFIP International Conference on Network and Parallel Computing (NPC ’21)</i>, 2021.
 
-- Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. <i>ACM Transactions on Architecture and Code Optimization (TACO)</i>, 18(4): 1-25, 2021. <font color="#FF0000">(CCF-A)
+- Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. <i>ACM Transactions on Architecture and Code Optimization (TACO)</i>, 2021. <font color="#FF0000">(CCF-A)
 
 <B>2020</B>
 
-- <B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, and Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 26(1): 3:1-3:24, 2020. <font color="#FF0000">(CCF-B)
+- <B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, and Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 2020. <font color="#FF0000">(CCF-B)
 
-- <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 39(11): 3956-3967, 2020. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A) <B>Best Paper Candidate</B></font> 
+- <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2020. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A) <B>Best Paper Candidate</B></font> 
 
 <B>2019</B>
 
-- <B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, and Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. <i>International Conference on Massive Storage Systems and Technology (MSST ’19)</i>, pp. 126-133, 2019. <font color="#FF0000">(CCF-B)</font> 
+- <B>Jun Li</B>, Xiaofei Xu, Xiaoning Peng, and Jianwei Liao. Pattern-based Write Scheduling and Read Balance-oriented Wear-leveling for Solid State Drivers. <i>International Conference on Massive Storage Systems and Technology (MSST ’19)</i>, 2019. <font color="#FF0000">(CCF-B)</font> 
 
 # 🎖 Honors and Awards
 
