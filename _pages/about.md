@@ -70,7 +70,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Min Huang, Jianwei Liao, and Francois Trahay. Degraded Mode benefited I/O Scheduling to Ensure I/O Responsiveness in RAID-enabled SSDs. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 27(6): 1-24, 2022. <font color="#FF0000">(CCF-B)
 
-- Jianwei Liao&#42;, <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, and Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. <i>ACM Transactions on Embedded Computing Systems (TECS)</i>, 21(2): 1-27, 2022. <font color="#FF0000">(CCF-B) (&#42;Ph.D advisor) 
+- Jianwei Liao&#42;, <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, and Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. <i>ACM Transactions on Embedded Computing Systems (TECS)</i>, 21(2): 1-27, 2022. (&#42;Ph.D advisor) <font color="#FF0000">(CCF-B) 
 
 - <B>Jun Li</B>, Xiaofei Xu, Zhigang Cai, Jianwei Liao, Kenli Li, Balazs Gerofi, and Yutaka Ishikawa. Pattern-based Prefetching with Adaptive Cache Management Inside of Solid-State Drives. <i>ACM Transactions on Storage (TOS)</i>, 18(1): 1-25, 2022. <font color="#FF0000">(CCF-A)
 
