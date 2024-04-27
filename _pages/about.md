@@ -62,6 +62,8 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - Haodong Lin, Zhibing Sha, <B>Jun Li</B>, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, and Jianwei Liao. DRAM Cache Management with Request Granularity for NAND-based SSDs. <i>International Conference on Parallel Processing (ICPP ’22)</i>, pp. 1–10, 2022. <font color="#FF0000">(CCF-B)
 
+- Guodong Peng, <B>Jun Li</B>, Mingwang Zhao, Minjun Li, Zhibing Sha, Min Huang, and Zhigang Cai. Delaying Large Write Requests to Trade off I/O Performance and Long-Tail Latency in SSDs. <i>IEEE International Conference on High Performance Computing and Communications (HPCC ’22)</i>, pp. 1249-1254, 2022.
+
 - Jiaojiao Wu, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, and Jianwei Liao. Adaptive Switch on Wear Leveling for Enhancing I/O Latency and Lifetime of High-density SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 41(11): 4040-4051, 2022. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A)
 
 - Haodong Lin, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, and Jianwei Liao. Adaptive Management with Request Granularity for DRAM Cache inside NAND-based SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2022. <font color="#FF0000">(CCF-A)
@@ -78,7 +80,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’21)</i>, pp. 1096-1099, 2021. <font color="#FF0000">(CCF-B)
 
-- Haodong Lin, Jun Li, Zhibing Sha, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. A Novel CFLRU-Based Cache Management Approach for NAND-Based SSDs. <i> IFIP International Conference on Network and Parallel Computing (NPC ’21)</i>, pp. 214-225, 2021.
+- Haodong Lin, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. A Novel CFLRU-Based Cache Management Approach for NAND-Based SSDs. <i> IFIP International Conference on Network and Parallel Computing (NPC ’21)</i>, pp. 214-225, 2021.
 
 - Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. <i>ACM Transactions on Architecture and Code Optimization (TACO)</i>, 18(4): 1-25, 2021. <font color="#FF0000">(CCF-A)
 
