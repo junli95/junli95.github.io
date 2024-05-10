@@ -33,11 +33,11 @@ Jun Li is a Ph.D. Candidate at Southwest University (supervised by Prof. <a href
 
 - Fan Yang, Zhigang Cai, <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhibing Sha, Mingwang Zhao, Jianwei Liao. Adaptive Selection of Parity Chunk Update Methods in RAID-enabled SSDs. <i>International Conference on Massive Storage Systems and Technology (MSST ’24)</i>, 2024. <font color="#FF0000">(CCF-B)
 
+- Shuaiwen Yu, Zhibing Sha, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Adaptive DRAM Cache Division for Computational Solid-state Drives. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’24)</i>, 2024. <font color="#FF0000">(CCF-B)
+
 - Huanhuan Tian, Jiewen Tang, <B>Jun Li</B>, Zhibing Sha, Fan Yang, Zhigang Cai, Jianwei Liao. Modeling Retention Errors of 3D NAND Flash for Optimizing Data Placement. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 2024. <font color="#FF0000">(CCF-B)
 
 - Jiaojiao Wu, Zhigang Cai, Fan Yang, <B>Jun Li</B>, Francois Trahay, Zheng Yang, Chao Wang, Jianwei Liao. Polling Sanitization to Balance I/O Latency and Data Security of High-density SSDs. <i>ACM Transactions on Storage (TOS)</i>, 2024. <font color="#FF0000">(CCF-A)
-
-- Shuaiwen Yu, Zhibing Sha, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Adaptive DRAM Cache Division for Computational Solid-state Drives. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’24)</i>, 2024. <font color="#FF0000">(CCF-B)
 
 <B>2023</B>
 
