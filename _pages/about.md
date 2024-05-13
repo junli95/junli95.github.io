@@ -98,8 +98,6 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - Outstanding Graduate Student of Chongqing, 2024
 
-- Outstanding Graduate Student Scholarship of Southwest University, 2023
-
 - Gold Award of Chongqing, China International College Students’ “Internet+” Innovation and Entrepreneurship Competition, 2023 (Team leader)
 
 - National Scholarship for PhD Graduate Student, 2022
@@ -114,7 +112,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - National Scholarship for PhD Graduate Student, 2021
 
-- PISEN Scholarship of Southwest University, 2021
+- PISEN Scholarship, 2021
 
 - Best Paper Candidate, Embedded Systems Week (ESWEEK), 2020
 
@@ -137,3 +135,5 @@ As a reviewer for:
 
 - The 7th International Conference on Computer Science and Application Engineering (CSAE ’23)
 
+# Clustrmaps
+<a href="https://clustrmaps.com/site/1bh2g"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TthGBfDr71i-ZnwuJnTZoelvFFJMtZM58lojwOSsqZg&cl=ffffff" /></a>
