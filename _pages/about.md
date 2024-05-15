@@ -88,7 +88,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - <B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, and Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 2020. <font color="#FF0000">(CCF-B)
 
-- <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2020. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A) <B>Best Paper Candidate</B></font> 
+- <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2020. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A) 🏆<B>Best Paper Candidate</B></font> 
 
 <B>2019</B>
 
