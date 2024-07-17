@@ -31,7 +31,7 @@ Jun Li received the Ph.D. degree from Southwest University in 2024 (supervised b
 
 <B>2024</B>
 
-- <B>Jun Li</B>, Zhigang Cai, Balazs Gerofi, Yutaka Ishikawa, Jianwei Liao. Page Type-aware Full-sequence Program Scheduling via Reinforcement Learning in High Density SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2022. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A)
+- <B>Jun Li</B>, Zhigang Cai, Balazs Gerofi, Yutaka Ishikawa, Jianwei Liao. Page Type-aware Full-sequence Program Scheduling via Reinforcement Learning in High Density SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2024. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A)
 
 - Li Cai, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. PhasedRR: Read Reclaim Scheduling without Page-level Access Counting. <i>International Conference on Massive Storage Systems and Technology (MSST ’24)</i>, 2024. <font color="#FF0000">(CCF-B)
 
