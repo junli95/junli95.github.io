@@ -21,7 +21,7 @@ Jun Li is a Ph.D. Candidate at Southwest University (supervised by Prof. <a href
 
 # 🔥 News
 
-- *2024.07*: One paper is accepted by IEEE TCAD (ESWEEK-CASES 2024 Journal track).
+- *2024.07*: One paper is accepted by ESWEEK-CASES 2024 Journal track and will appear in IEEE TCAD.
 - *2024.07*: I will join NJUPT as an assistant professer in September.
 - *2024.04*: One paper is accepted by ACM TODAES.
 - *2024.03*: Two papers are accepted by MSST 2024.
