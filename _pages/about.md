@@ -22,6 +22,7 @@ Jun Li is a Ph.D. Candidate at Southwest University (supervised by Prof. <a href
 # 🔥 News
 
 - *2024.07*: One paper is accepted by IEEE TCAD (ESWEEK-CASES 2024 Journal track).
+- *2024.07*: I will join NJUPT as an assistant professer in September.
 - *2024.04*: One paper is accepted by ACM TODAES.
 - *2024.03*: Two papers are accepted by MSST 2024.
 
@@ -29,6 +30,8 @@ Jun Li is a Ph.D. Candidate at Southwest University (supervised by Prof. <a href
 # 📝 Publications 
 
 <B>2024</B>
+
+<B>Jun Li</B>, Zhigang Cai, Balazs Gerofi, Yutaka Ishikawa, Jianwei Liao. Page Type-aware Full-sequence Program Scheduling via Reinforcement Learning in High Density SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2022. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A)
 
 - Li Cai, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. PhasedRR: Read Reclaim Scheduling without Page-level Access Counting. <i>International Conference on Massive Storage Systems and Technology (MSST ’24)</i>, 2024. <font color="#FF0000">(CCF-B)
 
