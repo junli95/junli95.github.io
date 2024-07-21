@@ -22,7 +22,7 @@ Jun Li received the Ph.D. degree from Southwest University in 2024 (supervised b
 # 🔥 News
 
 - *2024.07*: One paper is accepted by ESWEEK-CASES 2024 Journal track and will appear in IEEE TCAD.
-- *2024.07*: I will join NJUPT as an assistant professer in September.
+- *2024.07*: I will join NJUPT as a lecturer in September.
 - *2024.04*: One paper is accepted by ACM TODAES.
 - *2024.03*: Two papers are accepted by MSST 2024.
 
