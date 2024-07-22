@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Li received the Ph.D. degree from Southwest University in 2024 (supervised by Prof. <a href="http://cis.swu.edu.cn/info/1013/1168.htm"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). He was a one-year Visiting Ph.D. Student at National Institute of Informatics (supervised by Prof. <a href="https://www.nii.ac.jp/en/faculty/architecture/ishikawa_yutaka/"  target="view_frame">Yutaka Ishikawa</a>) during 2022-2023. His research interest is in the area of flash memory and computer architecture optimization, and his research outcomes have been published in premier journals and conferences including TOS, TACO, TCAD, TECS, TODAES, JSA, MSST, ICPP, LCTES, DATE, ISCAS.
+Jun Li received the Ph.D. degree from Southwest University in 2024 (supervised by Prof. <a href="http://cis.swu.edu.cn/info/1013/1168.htm"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). He was a one-year Visiting Ph.D. Student at National Institute of Informatics (supervised by Prof. <a href="https://www.nii.ac.jp/en/faculty/architecture/ishikawa_yutaka/"  target="view_frame">Yutaka Ishikawa</a>) from 2022 to 2023. His research interest is in the area of flash memory and computer architecture optimization, and his research outcomes have been published in premier journals and conferences including TOS, TACO, TCAD, TECS, TODAES, JSA, MSST, ICPP, LCTES, DATE, ISCAS.
 
 
 # 🔥 News
