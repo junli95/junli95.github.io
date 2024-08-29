@@ -140,4 +140,5 @@ As a reviewer for:
 - The 7th International Conference on Computer Science and Application Engineering (CSAE ’23)
 
 # Clustrmaps
-<a href="https://clustrmaps.com/site/1bh2g"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TthGBfDr71i-ZnwuJnTZoelvFFJMtZM58lojwOSsqZg&cl=ffffff" /></a>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=3da7d4&w=300&t=tt&d=TthGBfDr71i-ZnwuJnTZoelvFFJMtZM58lojwOSsqZg&co=ffffff&cmo=ff0f00&cmn=ff5353&ct=000000"></script>
+
