@@ -16,13 +16,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Li received the Ph.D. degree from Southwest University in 2024 (supervised by Prof. <a href="http://cis.swu.edu.cn/info/1013/1168.htm"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). He was a one-year Visiting Ph.D. Student at National Institute of Informatics (supervised by Prof. <a href="https://www.nii.ac.jp/en/faculty/architecture/ishikawa_yutaka/"  target="view_frame">Yutaka Ishikawa</a>) from 2022 to 2023. His research interest is in the area of flash memory and computer architecture optimization, and his research outcomes have been published in premier journals and conferences including TOS, TACO, TCAD, TECS, TODAES, JSA, MSST, ICPP, LCTES, DATE, ISCAS.
+I am a lecturer in the School of Computer Science at Nanjing University of Posts and Telecommunications. I received the Ph.D. degree from Southwest University in 2024 (supervised by Prof. <a href="http://cis.swu.edu.cn/info/1013/1168.htm"  target="view_frame">Jianwei Liao</a> and Dr. Zhigang Cai). I was a one-year Visiting Ph.D. Student at National Institute of Informatics (supervised by Prof. <a href="https://www.nii.ac.jp/en/faculty/architecture/ishikawa_yutaka/"  target="view_frame">Yutaka Ishikawa</a>) from 2022 to 2023. My research interest is in the area of flash memory and computer architecture optimization, and my research outcomes have been published in premier journals and conferences including TOS, TACO, TCAD, TECS, TODAES, JSA, MSST, ICPP, LCTES, DATE, ISCAS.
 
 
 # 🔥 News
 
 - *2024.07*: One paper is accepted by ESWEEK-CASES 2024 Journal track and will appear in IEEE TCAD.
-- *2024.07*: I will join NJUPT as a lecturer in September.
 - *2024.04*: One paper is accepted by ACM TODAES.
 - *2024.03*: Two papers are accepted by MSST 2024.
 
