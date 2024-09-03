@@ -132,11 +132,11 @@ As a reviewer for:
 
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
-- Elsevier Journal of Systems Architecture (JSA)
+- Journal of Systems Architecture (JSA)
 
-- Springer Journal of Computer Science and Technology (JCST)
+- Journal of Computer Science and Technology (JCST)
 
-- Springer Computing
+- Computing
 
 - The 7th International Conference on Computer Science and Application Engineering (CSAE ’23)
 
