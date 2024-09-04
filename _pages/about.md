@@ -132,6 +132,8 @@ As a reviewer for:
 
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+
 - Journal of Systems Architecture (JSA)
 
 - Journal of Computer Science and Technology (JCST)
