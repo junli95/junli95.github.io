@@ -103,7 +103,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - Gold Award of Chongqing, China International College Students’ “Internet+” Innovation and Entrepreneurship Competition, 2023 (Team leader)
 
-- National Scholarship for PhD Graduate Student, 2022
+- National Scholarship for PhD Graduate Student, 2022 (Top 1%)
 
 - Merit Student of Chongqing, 2022
 
@@ -113,13 +113,13 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - Pacemaker to Outstanding Graduate Student of Southwest University, 2021 (Top 10 per year)
 
-- National Scholarship for PhD Graduate Student, 2021
+- National Scholarship for PhD Graduate Student, 2021 (Top 1%)
 
 - PISEN Scholarship, 2021
 
-- Best Paper Candidate, Embedded Systems Week (ESWEEK), 2020
+- Best Paper Candidate, Embedded Systems Week (ESWEEK), 2020 (9 out of 375 submissions)
 
-- National Scholarship for Master Graduate Student, 2019
+- National Scholarship for Master Graduate Student, 2019 (Top 1%)
 
 <span class='anchor' id='-Activities'></span>
 # 💬 Activities
