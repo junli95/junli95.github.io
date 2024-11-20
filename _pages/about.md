@@ -89,11 +89,11 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - <B>Jun Li</B>, Minjun Li, Zhigang Cai, Francois Trahay, Mohamed Wahib, Balazs Gerofi, Zhiming Liu, Min Huang, and Jianwei Liao. Intra-page Cache Update in SLC-mode with Partial Programming in High Density SSDs. <i>International Conference on Parallel Processing (ICPP ’21)</i>, 2021. <font color="#FF0000">(CCF-B)
 
-- Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’21)</i>, 2021. <font color="#FF0000">(CCF-B)
-
 - Haodong Lin, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. A Novel CFLRU-Based Cache Management Approach for NAND-Based SSDs. <i> IFIP International Conference on Network and Parallel Computing (NPC ’21)</i>, 2021.
 
 - Zhibing Sha, <B>Jun Li</B>, Lihao Song, Jiewen Tang, Ming Huang, Zhigang Cai, Lianju Qian, Jianwei Liao, and Zhiming Liu. Low I/O Intensity-aware Partial GC Scheduling to Reduce Long-tail Latency in SSDs. <i>ACM Transactions on Architecture and Code Optimization (TACO)</i>, 2021. <font color="#FF0000">(CCF-A)
+
+- Mingwang Zhao, <B>Jun Li</B>, Zhigang Cai, Jianwei Liao, and Yuanquan Shi. Block Attribute-aware Data Reallocation to Alleviate Read Disturb in SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’21)</i>, 2021. <font color="#FF0000">(CCF-B)
 
 <B>2020</B>
 
