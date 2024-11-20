@@ -21,6 +21,7 @@ Jun Li is currently a lecturer in <a href="https://cs.njupt.edu.cn/"  target="vi
 
 # 🔥 News
 
+- *2024.11*: Two papers are accepted by DATE 2025.
 - *2024.07*: One paper is accepted by ESWEEK-CASES 2024 Journal track and will appear in IEEE TCAD.
 - *2024.04*: One paper is accepted by ACM TODAES.
 - *2024.03*: Two papers are accepted by MSST 2024.
@@ -28,19 +29,25 @@ Jun Li is currently a lecturer in <a href="https://cs.njupt.edu.cn/"  target="vi
 
 # 📝 Publications 
 
+<B>2025</B>
+
+<B>Jun Li</B>, Xiaofei Xu, zhibing sha, Xiaobai Chen, Jieming Yin and Jianwei Liao. CoupledCB: Eliminating Wasted Pages in Copyback-based Garbage Collection for SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’25)</i>, 2025. <font color="#FF0000">(CCF-B)
+Li Cai, Zhibing Sha, <B>Jun Li</B>, Jiaojiao Wu, Huanhuan Tian, Zhigang Cai and Jianwei Liao. A Two-level SLC Cache Hierarchy for Hybrid SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’25)</i>, 2025. <font color="#FF0000">(CCF-B)
+
 <B>2024</B>
 
 - <B>Jun Li</B>, Zhigang Cai, Balazs Gerofi, Yutaka Ishikawa, Jianwei Liao. Page Type-aware Full-sequence Program Scheduling via Reinforcement Learning in High Density SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2024. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A)
+
+- Huanhuan Tian, Jiewen Tang, <B>Jun Li</B>, Zhibing Sha, Fan Yang, Zhigang Cai, Jianwei Liao. Modeling Retention Errors of 3D NAND Flash for Optimizing Data Placement. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 2024. <font color="#FF0000">(CCF-B)
 
 - Li Cai, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. PhasedRR: Read Reclaim Scheduling without Page-level Access Counting. <i>International Conference on Massive Storage Systems and Technology (MSST ’24)</i>, 2024. <font color="#FF0000">(CCF-B)
 
 - Fan Yang, Zhigang Cai, <B>Jun Li</B>, Balazs Gerofi, Francois Trahay, Zhibing Sha, Mingwang Zhao, Jianwei Liao. Adaptive Selection of Parity Chunk Update Methods in RAID-enabled SSDs. <i>International Conference on Massive Storage Systems and Technology (MSST ’24)</i>, 2024. <font color="#FF0000">(CCF-B)
 
+- Jiaojiao Wu, Zhigang Cai, Fan Yang, <B>Jun Li</B>, Francois Trahay, Zheng Yang, Chao Wang, Jianwei Liao. Polling Sanitization to Balance I/O Latency and Data Security of High-density SSDs. <i>ACM Transactions on Storage (TOS)</i>, 2024. <font color="#FF0000">(CCF-A)
+
 - Shuaiwen Yu, Zhibing Sha, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Adaptive DRAM Cache Division for Computational Solid-state Drives. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’24)</i>, 2024. <font color="#FF0000">(CCF-B)
 
-- Huanhuan Tian, Jiewen Tang, <B>Jun Li</B>, Zhibing Sha, Fan Yang, Zhigang Cai, Jianwei Liao. Modeling Retention Errors of 3D NAND Flash for Optimizing Data Placement. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 2024. <font color="#FF0000">(CCF-B)
-
-- Jiaojiao Wu, Zhigang Cai, Fan Yang, <B>Jun Li</B>, Francois Trahay, Zheng Yang, Chao Wang, Jianwei Liao. Polling Sanitization to Balance I/O Latency and Data Security of High-density SSDs. <i>ACM Transactions on Storage (TOS)</i>, 2024. <font color="#FF0000">(CCF-A)
 
 <B>2023</B>
 
