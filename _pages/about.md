@@ -31,7 +31,7 @@ Jun Li is currently a lecturer in <a href="https://cs.njupt.edu.cn/"  target="vi
 
 <B>2025</B>
 
-- <B>Jun Li</B>, Xiaofei Xu, zhibing sha, Xiaobai Chen, Jieming Yin and Jianwei Liao. CoupledCB: Eliminating Wasted Pages in Copyback-based Garbage Collection for SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’25)</i>, 2025. <font color="#FF0000">(CCF-B)
+- <B>Jun Li</B>, Xiaofei Xu, Zhibing Sha, Xiaobai Chen, Jieming Yin and Jianwei Liao. CoupledCB: Eliminating Wasted Pages in Copyback-based Garbage Collection for SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’25)</i>, 2025. <font color="#FF0000">(CCF-B)
 
 - Li Cai, Zhibing Sha, <B>Jun Li</B>, Jiaojiao Wu, Huanhuan Tian, Zhigang Cai and Jianwei Liao. A Two-level SLC Cache Hierarchy for Hybrid SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’25)</i>, 2025. <font color="#FF0000">(CCF-B)
 
