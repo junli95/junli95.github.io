@@ -101,7 +101,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2020. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A)
 
-  <B>Best Paper Candidate</B></font> 🏆 
+  <font color="#FF0000"><B>Best Paper Candidate</B> 🏆 
 
 <B>2019</B>
 
