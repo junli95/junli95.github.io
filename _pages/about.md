@@ -73,7 +73,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - Haodong Lin, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Balazs Gerofi, Yuanquan Shi, Jianwei Liao. Adaptive Management with Request Granularity for DRAM Cache inside NAND-based SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2022. <font color="#FF0000">(CCF-A)
 
-- Jianwei Liao&#42;, <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. <i>ACM Transactions on Embedded Computing Systems (TECS)</i>, 2022. (&#42;Ph.D advisor) <font color="#FF0000">(CCF-B) 
+- Jianwei Liao&§;, <B>Jun Li</B>, Mingwang Zhao, Zhibing Sha, Zhigang Cai. Read Refresh Scheduling and Data Reallocation against Read Disturb in SSDs. <i>ACM Transactions on Embedded Computing Systems (TECS)</i>, 2022. (&§;Ph.D advisor) <font color="#FF0000">(CCF-B) 
 
 - Guodong Peng, <B>Jun Li</B>, Mingwang Zhao, Minjun Li, Zhibing Sha, Min Huang, Zhigang Cai. Delaying Large Write Requests to Trade off I/O Performance and Long-Tail Latency in SSDs. <i>IEEE International Conference on High Performance Computing and Communications (HPCC ’22)</i>, 2022.
 
