@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jun Li is currently a Lecturer in <a href="https://cs.njupt.edu.cn/"  target="view_frame">School of Computer Science</a> at <a href="https://www.njupt.edu.cn/"  target="view_frame">Nanjing University of Posts and Telecommunications</a>. He received the Ph.D. degree from <a href="https://www.swu.edu.cn/"  target="view_frame">Southwest University</a> in 2024 (supervised by Prof. <a href="http://cis.swu.edu.cn/info/1013/1168.htm"  target="view_frame">Jianwei Liao</a>). He was a one-year Visiting Ph.D. Student at <a href="https://www.nii.ac.jp/en/"  target="view_frame">National Institute of Informatics</a> (supervised by Prof. <a href="https://www.nii.ac.jp/en/faculty/architecture/ishikawa_yutaka/"  target="view_frame">Yutaka Ishikawa</a>) from 2022 to 2023. His research interest is in the area of flash memory and computer architecture optimization, and my research outcomes have been published in premier journals and conferences including TOS, TACO, TCAD, TECS, TODAES, JSA, MSST, DATE, ICPP, LCTES, ISCAS.
+Jun Li is currently a Lecturer in <a href="https://cs.njupt.edu.cn/"  target="view_frame">School of Computer Science</a> at <a href="https://www.njupt.edu.cn/"  target="view_frame">Nanjing University of Posts and Telecommunications</a>. He received the Ph.D. degree from <a href="https://www.swu.edu.cn/"  target="view_frame">Southwest University</a> in 2024 (supervised by Prof. <a href="http://cis.swu.edu.cn/info/1013/1168.htm"  target="view_frame">Jianwei Liao</a>). He was a one-year Visiting Ph.D. Student at <a href="https://www.nii.ac.jp/en/"  target="view_frame">National Institute of Informatics</a> (supervised by Prof. <a href="https://www.nii.ac.jp/en/faculty/architecture/ishikawa_yutaka/"  target="view_frame">Yutaka Ishikawa</a>) from 2022 to 2023. His research interest is in the area of flash memory and computer architecture optimization, and my research outcomes have been published in premier journals and conferences including TOS, TACO, TCAD, TECS, TODAES, MSST, DATE, ICPP, LCTES, ISCAS.
 
 
 # 🔥 News
@@ -99,7 +99,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - <B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 2020. <font color="#FF0000">(CCF-B)
 
-- <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2020. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A) <font color="#FF0000"><B>Best Paper Candidate</B> 🏆 
+- <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2020. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A) <font color="#FF0000"><B>ESWEEK 2020 Best Paper Candidate</B>
 
 <B>2019</B>
 
