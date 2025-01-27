@@ -134,7 +134,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 As a reviewer for:
 
-- IEEE Transactions on Computers
+- IEEE Transactions on Computers (TC)
   
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
