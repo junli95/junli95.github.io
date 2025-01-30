@@ -134,15 +134,15 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 As a reviewer for:
 
+- ACM Transactions on Architecture and Code Optimization (TACO)
+
+- ACM Transactions on Storage (TOS)
+
 - IEEE Transactions on Computers (TC)
   
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-
-- ACM Transactions on Architecture and Code Optimization (TACO)
-
-- ACM Transactions on Storage (TOS)
 
 - Journal of Computer Science and Technology (JCST)
 
