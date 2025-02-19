@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jun Li ｜ Nanjing University of Posts and Telecommunications"
+title                    : "Jun Li @ Nanjing University of Posts and Telecommunications (李骏 @ 南京邮电大学)"
 description              : ""
 repository               : "junli95/junli.github.io"
 google_scholar_stats_use_cdn : true
