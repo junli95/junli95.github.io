@@ -21,6 +21,7 @@ Jun Li is currently a Lecturer in <a href="https://cs.njupt.edu.cn/"  target="vi
 
 # 🔥 News
 
+- *2025.01*: One paper is accepted by ISCAS 2025.
 - *2024.11*: Two papers are accepted by DATE 2025.
 - *2024.07*: One paper is accepted by ESWEEK-CASES 2024 Journal Track and will appear in IEEE TCAD.
 - *2024.04*: One paper is accepted by ACM TODAES.
@@ -30,6 +31,8 @@ Jun Li is currently a Lecturer in <a href="https://cs.njupt.edu.cn/"  target="vi
 # 📝 Publications 
 
 <B>2025</B>
+
+Xiaobai Chen, Hao Dong, Jiacheng Mei, <B>Jun Li</B>, Yifei Tian, Jieming Yin, Fu Xiao. CAMC: a Multi-Chiplet Accelerator with Heterogeneous Memory-Based Computing Architecture for DNN Training. <i>IEEE International Symposium on Circuits and Systems (ISCAS ’25)</i>, 2025.
 
 - <B>Jun Li</B>, Xiaofei Xu, Zhibing Sha, Xiaobai Chen, Jieming Yin, Jianwei Liao. CoupledCB: Eliminating Wasted Pages in Copyback-based Garbage Collection for SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’25)</i>, 2025. <font color="#FF0000">(CCF-B)
 
