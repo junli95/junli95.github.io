@@ -32,7 +32,7 @@ Jun Li is currently a Lecturer in <a href="https://cs.njupt.edu.cn/"  target="vi
 
 <B>2025</B>
 
-Xiaobai Chen, Hao Dong, Jiacheng Mei, <B>Jun Li</B>, Yifei Tian, Jieming Yin, Fu Xiao. CAMC: a Multi-Chiplet Accelerator with Heterogeneous Memory-Based Computing Architecture for DNN Training. <i>IEEE International Symposium on Circuits and Systems (ISCAS ’25)</i>, 2025.
+- Xiaobai Chen, Hao Dong, Jiacheng Mei, <B>Jun Li</B>, Yifei Tian, Jieming Yin, Fu Xiao. CAMC: a Multi-Chiplet Accelerator with Heterogeneous Memory-Based Computing Architecture for DNN Training. <i>IEEE International Symposium on Circuits and Systems (ISCAS ’25)</i>, 2025.
 
 - <B>Jun Li</B>, Xiaofei Xu, Zhibing Sha, Xiaobai Chen, Jieming Yin, Jianwei Liao. CoupledCB: Eliminating Wasted Pages in Copyback-based Garbage Collection for SSDs. <i>Design, Automation & Test in Europe Conference & Exhibition (DATE ’25)</i>, 2025. <font color="#FF0000">(CCF-B)
 
