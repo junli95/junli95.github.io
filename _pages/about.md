@@ -33,7 +33,7 @@ Jun Li is currently a Lecturer in <a href="https://jiemingyin.github.io/"  targe
 
 <B>2025</B>
 
-- <B>Jun Li</B>, Zhibing Sha, Fan Yang, Xiaofei Xu, Xiaobai Chen, Jieming Yin, Jianwei Liao. FineRR-ZNS: Enabling Fine-Granularity Read Refreshing for ZNS SSDs. <i>Design Automation Conference (DAC ’25)</i>, 2025. <font color="#FF0000">(CCF-A)
+- <B>Jun Li</B>, Zhibing Sha, Fan Yang, Xiaofei Xu, Xiaobai Chen, Jieming Yin, Jianwei Liao. FineRR-ZNS: Enabling Fine-Granularity Read Refreshing for ZNS SSDs. <i>ACM/IEEE Design Automation Conference (DAC ’25)</i>, 2025. <font color="#FF0000">(CCF-A)
 
 - Xiaobai Chen, Hao Dong, Jiacheng Mei, <B>Jun Li</B>, Yifei Tian, Jieming Yin, Fu Xiao. CAMC: a Multi-Chiplet Accelerator with Heterogeneous Memory-Based Computing Architecture for DNN Training. <i>IEEE International Symposium on Circuits and Systems (ISCAS ’25)</i>, 2025.
 
