@@ -21,6 +21,7 @@ Jun Li is currently a Lecturer in <a href="https://cs.njupt.edu.cn/"  target="vi
 
 # 🔥 News
 
+- *2025.02*: One paper is accepted by DAC 2025.
 - *2025.01*: One paper is accepted by ISCAS 2025.
 - *2024.11*: Two papers are accepted by DATE 2025.
 - *2024.07*: One paper is accepted by ESWEEK-CASES 2024 Journal Track and will appear in IEEE TCAD.
@@ -31,6 +32,8 @@ Jun Li is currently a Lecturer in <a href="https://cs.njupt.edu.cn/"  target="vi
 # 📝 Publications 
 
 <B>2025</B>
+
+- <B>Jun Li</B>, Zhibing Sha, Fan Yang, Xiaobai Chen, Jieming Yin, Jianwei Liao. FineRR-ZNS: Enabling Fine-Granularity Read Refreshing for ZNS SSDs. <i>Design Automation Conference (DAC)</i>, 2025. <font color="#FF0000">(CCF-A)
 
 - Xiaobai Chen, Hao Dong, Jiacheng Mei, <B>Jun Li</B>, Yifei Tian, Jieming Yin, Fu Xiao. CAMC: a Multi-Chiplet Accelerator with Heterogeneous Memory-Based Computing Architecture for DNN Training. <i>IEEE International Symposium on Circuits and Systems (ISCAS ’25)</i>, 2025.
 
