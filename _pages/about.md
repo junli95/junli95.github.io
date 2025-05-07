@@ -155,6 +155,8 @@ As a reviewer for:
 
 - Journal of Systems Architecture (JSA)
 
+- 16th International Symposium on Advanced Parallel Processing Technology (APPT 2025)
+
 # Clustrmaps
 <a href="https://clustrmaps.com/site/1bh2g"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TthGBfDr71i-ZnwuJnTZoelvFFJMtZM58lojwOSsqZg&cl=ffffff" /></a>
 
