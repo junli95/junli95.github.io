@@ -139,7 +139,15 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 <span class='anchor' id='-Activities'></span>
 # 💬 Activities
 
-As a reviewer for:
+Conference:
+
+- Artifact Evaluation Committee, USENIX Conference on File and Storage Technologies (FAST), 2026
+
+- Reivewer, International Symposium on Advanced Parallel Processing Technology (APPT), 2025
+
+- Reivewer, International Conference on Computer Science and Application Engineering (CSAE), 2023
+
+Journel Reviewer:
 
 - ACM Transactions on Architecture and Code Optimization (TACO)
 
@@ -151,11 +159,11 @@ As a reviewer for:
 
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
-- Journal of Computer Science and Technology (JCST)
+- Springer Journal of Computer Science and Technology (JCST)
 
-- Journal of Systems Architecture (JSA)
+- Elsevier Journal of Systems Architecture (JSA)
 
-- 16th International Symposium on Advanced Parallel Processing Technology (APPT 2025)
+- Springer Computing
 
 # Clustrmaps
 <a href="https://clustrmaps.com/site/1bh2g"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TthGBfDr71i-ZnwuJnTZoelvFFJMtZM58lojwOSsqZg&cl=ffffff" /></a>
