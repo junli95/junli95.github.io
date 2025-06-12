@@ -22,6 +22,7 @@ Click [here](CV.pdf) to see the up-to-date version of my CV.
 
 # 🔥 News
 
+- *2025.06*: One paper is accepted by IEEE TCAD.
 - *2025.02*: One paper is accepted by DAC 2025.
 - *2025.01*: One paper is accepted by ISCAS 2025.
 - *2024.11*: Two papers are accepted by DATE 2025.
@@ -33,6 +34,8 @@ Click [here](CV.pdf) to see the up-to-date version of my CV.
 # 📝 Publications 
 
 <B>2025</B>
+
+- Li Cai, Zhibing Sha, <B>Jun Li</B>, Jiaojiao Wu, Huanhuan Tian, Zhigang Cai, Jianwei Liao. Multi-level SLC Cache Architecture for SLC-TLC Hybrid Storage. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2025. <font color="#FF0000">(CCF-A)
 
 - <B>Jun Li</B>, Zhibing Sha, Fan Yang, Xiaofei Xu, Xiaobai Chen, Jieming Yin, Jianwei Liao. FineRR-ZNS: Enabling Fine-Granularity Read Refreshing for ZNS SSDs. <i>ACM/IEEE Design Automation Conference (DAC ’25)</i>, 2025. <font color="#FF0000">(CCF-A)
 
