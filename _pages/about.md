@@ -162,11 +162,13 @@ Journel Reviewer:
 
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
+- IEEE Transactions on Electron Devices (TED)
+
 - Springer Journal of Computer Science and Technology (JCST)
 
-- Elsevier Journal of Systems Architecture (JSA)
-
 - Springer Computing
+
+- Elsevier Journal of Systems Architecture (JSA)
 
 # Clustrmaps
 <a href="https://clustrmaps.com/site/1bh2g"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TthGBfDr71i-ZnwuJnTZoelvFFJMtZM58lojwOSsqZg&cl=ffffff" /></a>
