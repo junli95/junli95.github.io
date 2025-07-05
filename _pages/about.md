@@ -36,7 +36,7 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: May 
 
 <B>2025</B>
 
-- Zhibing Sha, Shuaiwen Yu, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, and Jianwei Liao. 2024. Supports of Data Cache Division for Computational Solid-state Drives. <i>ACM Transactions on Architecture and Code Optimization (TACO)</i>, 2025. <font color="#FF0000">(CCF-A)
+- Zhibing Sha, Shuaiwen Yu, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Supports of Data Cache Division for Computational Solid-state Drives. <i>ACM Transactions on Architecture and Code Optimization (TACO)</i>, 2025. <font color="#FF0000">(CCF-A)
 
 - Li Cai, Zhibing Sha, <B>Jun Li</B>, Jiaojiao Wu, Huanhuan Tian, Zhigang Cai, Jianwei Liao. Multi-level SLC Cache Architecture for SLC-TLC Hybrid Storage. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2025. <font color="#FF0000">(CCF-A)
 
