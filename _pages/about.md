@@ -22,6 +22,7 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: May 
 
 # 🔥 News
 
+- *2025.08*: One paper is accepted by ICCD 2025.
 - *2025.06*: One paper is accepted by ACM TACO.
 - *2025.06*: One paper is accepted by IEEE TCAD.
 - *2025.02*: One paper is accepted by DAC 2025.
@@ -35,6 +36,8 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: May 
 # 📝 Publications 
 
 <B>2025</B>
+
+- Fan Yang, Toru Koizumi, <B>Jun Li</B>, Shu Sugita, Yuriko Yamauchi, Ryota Shioya, Junichiro Kadomoto, Hidetsugu Irie. Register Bridging: A Lightweight Microarchitectural Approach for Skipping Overhead Instructions in Distance‑Based ISA Processors. <i>IEEE International Conference on Computer Design (ICCD ’25)</i>, 2025. <font color="#FF0000">(CCF-B)
 
 - Zhibing Sha, Shuaiwen Yu, Chengyong Tang, Zhigang Cai, Peng Tang, Min Huang, <B>Jun Li</B>, Jianwei Liao. Supports of Data Cache Division for Computational Solid-state Drives. <i>ACM Transactions on Architecture and Code Optimization (TACO)</i>, 2025. <font color="#FF0000">(CCF-A)
 
