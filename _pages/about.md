@@ -32,7 +32,7 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: May 
 - *2024.04*: One paper is accepted by ACM TODAES.
 - *2024.03*: Two papers are accepted by MSST 2024.
 
-[More...](../news)
+[More...](news)
 
 # 📝 Publications 
 
