@@ -31,7 +31,7 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: May 
 - *2024.07*: One paper is accepted by ESWEEK-CASES 2024 Journal Track and will appear in IEEE TCAD.
 - *2024.04*: One paper is accepted by ACM TODAES.
 - *2024.03*: Two papers are accepted by MSST 2024.
-
+[More...](news)
 
 # 📝 Publications 
 
