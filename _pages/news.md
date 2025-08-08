@@ -1,7 +1,10 @@
 ---
-title: "All News"
+layout: archive
+title: "News"
 permalink: /pages/news
 author_profile: true
+redirect_from:
+  - /news
 ---
 
 <B>2025</B>
