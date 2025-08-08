@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: compress
 title: "News"
 permalink: /pages/news
 author_profile: true
