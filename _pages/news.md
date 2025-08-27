@@ -21,3 +21,8 @@ redirect_from:
 - *2024.07*: One paper is accepted by ESWEEK-CASES 2024 Journal Track and will appear in IEEE TCAD.
 - *2024.04*: One paper is accepted by ACM TODAES.
 - *2024.03*: Two papers are accepted by MSST 2024.
+
+## 2023
+- *2023.12*: One papers are accepted by ACM TOS.
+- *2023.11*: One papers are accepted by DATE 2024.
+
