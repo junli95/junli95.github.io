@@ -23,6 +23,6 @@ redirect_from:
 - *2024.03*: Two papers are accepted by MSST 2024.
 
 ## 2023
-- *2023.12*: One papers are accepted by ACM TOS.
-- *2023.11*: One papers are accepted by DATE 2024.
+- *2023.12*: One paper is accepted by ACM TOS.
+- *2023.11*: One paper is accepted by DATE 2024.
 
