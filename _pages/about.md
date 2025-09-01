@@ -173,6 +173,8 @@ Journel Reviewer:
 
 - IEEE Transactions on Electron Devices (TED)
 
+- IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+
 - Elsevier Journal of Systems Architecture (JSA)
 
 - Springer Journal of Computer Science and Technology (JCST)
