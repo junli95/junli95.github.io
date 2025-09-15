@@ -153,9 +153,9 @@ Conference:
 
 - Artifact Evaluation Committee, USENIX Conference on File and Storage Technologies (FAST), 2026
 
-- Reivewer, International Symposium on Advanced Parallel Processing Technology (APPT), 2025
+- Reviewer, International Symposium on Advanced Parallel Processing Technology (APPT), 2025
 
-- Reivewer, International Conference on Computer Science and Application Engineering (CSAE), 2023
+- Reviewer, International Conference on Computer Science and Application Engineering (CSAE), 2023
 
 Journel Reviewer:
 
