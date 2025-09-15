@@ -164,6 +164,8 @@ Journel Reviewer:
 - ACM Transactions on Storage (TOS)
 
 - IEEE Transactions on Computers (TC)
+
+- IEEE Transactions on Parallel and Distributed Systems (TPDS)
   
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
