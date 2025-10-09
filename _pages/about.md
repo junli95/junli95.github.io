@@ -179,6 +179,8 @@ Journel Reviewer:
 
 - Elsevier Journal of Systems Architecture (JSA)
 
+- Elsevier Sustainable Computing (SUSCOM)
+
 - Springer Journal of Computer Science and Technology (JCST)
 
 - Springer Computing
