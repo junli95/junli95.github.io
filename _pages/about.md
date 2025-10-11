@@ -171,6 +171,8 @@ Journel Reviewer:
 
 - IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
 
+- IEEE Transactions on Cloud Computing (TCC)
+
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 - IEEE Transactions on Electron Devices (TED)
