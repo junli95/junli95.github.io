@@ -39,7 +39,7 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: May 
 
 <B>2025</B>
 
-- Fan Yang, Jiaojiao Wu, Chenqi Xiao, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Yuanquan Shi, Kanlun Tan, Jianwei Liao. 2025. Minimizing overhead of out-of-channel data exchanges to balance wear-outs and I/Os in RAID-enabled SSDs. <i>ACM Transactions on Architecture and Code Optimization (TACO)</i>, 2025. <font color="#FF0000">(CCF-A)
+- Fan Yang, Jiaojiao Wu, Chenqi Xiao, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Yuanquan Shi, Kanlun Tan, Jianwei Liao. Minimizing overhead of out-of-channel data exchanges to balance wear-outs and I/Os in RAID-enabled SSDs. <i>ACM Transactions on Architecture and Code Optimization (TACO)</i>, 2025. <font color="#FF0000">(CCF-A)
 
 - Fan Yang, Toru Koizumi, <B>Jun Li</B>, Shu Sugita, Yuriko Yamauchi, Ryota Shioya, Junichiro Kadomoto, Hidetsugu Irie. Register Bridging: A Lightweight Microarchitectural Approach for Skipping Overhead Instructions in Distance‑Based ISA Processors. <i>IEEE International Conference on Computer Design (ICCD ’25)</i>, 2025. <font color="#FF0000">(CCF-B)
 
