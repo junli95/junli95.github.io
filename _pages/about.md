@@ -145,7 +145,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - PISEN Scholarship, 2021
 
-- Best Paper Candidate, ACM/IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES, part of ESWEEK), 2020
+- Best Paper Candidate, ACM/IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES, part of ESWEEK), 2020 (Top 2.75%=3/109)
 
 - National Scholarship for Master Student, 2019
 
