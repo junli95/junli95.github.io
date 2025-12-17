@@ -176,7 +176,7 @@ Journel Reviewer:
 
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
 
-- Wiley Advanced Science (ADVS)
+- Wiley Advanced Science
 
 - Springer Journal of Computer Science and Technology (JCST)
 
