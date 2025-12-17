@@ -176,6 +176,8 @@ Journel Reviewer:
 
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
 
+- Wiley Advanced Science (ADVS)
+
 - Springer Journal of Computer Science and Technology (JCST)
 
 - Elsevier Journal of Systems Architecture (JSA)
