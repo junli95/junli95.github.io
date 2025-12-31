@@ -22,6 +22,7 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: May 
 
 # 🔥 News
 
+- *2025.12*: One paper is accepted by ACM TOS.
 - *2025.11*: One paper is accepted by ACM TACO.
 - *2025.08*: One paper is accepted by ICCD 2025.
 - *2025.06*: One paper is accepted by ACM TACO.
@@ -32,6 +33,11 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: May 
 [More...](news)
 
 # 📝 Publications 
+(# indicates equal contribution)
+
+<B>2025</B>
+
+- Zhibing Sha#, <B>Jun Li</B>#, Jiaojiao Wu, Zhigang Cai, Yuanquan Shi, Jianwei Liao. Prefetching Mapping Table Entries to Speed up Address Translation in DRAM-less SSDs. <i>ACM Transactions on Storage (TOS)</i>, 2026. <font color="#FF0000">(CCF-A)
 
 <B>2025</B>
 
@@ -115,7 +121,7 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - <B>Jun Li</B>, Bowen Huang, Zhibing Sha, Zhigang Cai, Jianwei Liao, Balazs Gerofi, Yutaka Ishikawa. Mitigating Negative Impacts of Read Disturb in SSDs. <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 2020. <font color="#FF0000">(CCF-B)
 
-- <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2020. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A) CASES 2020 Best Paper Candidate
+- <B>Jun Li</B>#, Zhibing Sha#, Zhigang Cai, Francois Trahay, and Jianwei Liao. Patch-based Data Management for Dual-copy Buffers in RAID-enabled SSDs. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2020. (ESWEEK-TCAD special issue) <font color="#FF0000">(CCF-A) CASES 2020 Best Paper Candidate
 
 <B>2019</B>
 
