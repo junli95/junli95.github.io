@@ -180,9 +180,11 @@ Journel Reviewer:
 
 - IEEE Transactions on Electron Devices (TED)
 
+- IEEE Transactions on Device and Materials Reliability (TDMR)
+
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
 
-- Wiley Advanced Science
+- Wiley Advanced Science (AS)
 
 - Springer Journal of Computer Science and Technology (JCST)
 
