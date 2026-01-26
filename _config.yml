@@ -29,6 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cBNPS4YAAAAJ"
   email            : "lijun951111@gmail.com"
+  university       : "https://cs.njupt.edu.cn/2025/0417/c18298a281702/page.htm"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -57,7 +58,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  university       : "https://cs.njupt.edu.cn/2025/0417/c18298a281702/page.htm"
+
 
 # Reading Files
 include:
