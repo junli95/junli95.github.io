@@ -38,7 +38,7 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: Jan.
 
 <B>2026</B>
 
-- Jianwei Liao, Zhibing Sha, Yuanbo Li, <B>Jun Li</B>*, Zhigang Cai, and Francois Trahay. Shuffler: A Novel Read Reclaim Scheme for Superblock Management in NAND Flash. <i>ACM Transactions on Storage (TOS)</i>, 2026. <font color="#FF0000">(CCF-A)
+- Jianwei Liao, Zhibing Sha, Yuanbo Li, <B>Jun Li</B>*, Zhigang Cai, Francois Trahay. Shuffler: A Novel Read Reclaim Scheme for Superblock Management in NAND Flash. <i>ACM Transactions on Storage (TOS)</i>, 2026. <font color="#FF0000">(CCF-A)
 
 - Zhibing Sha#, <B>Jun Li</B>#, Jiaojiao Wu, Zhigang Cai, Yuanquan Shi, Jianwei Liao. Prefetching Mapping Table Entries to Speed up Address Translation in DRAM-less SSDs. <i>ACM Transactions on Storage (TOS)</i>, 2026. <font color="#FF0000">(CCF-A)
 
