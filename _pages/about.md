@@ -22,6 +22,7 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: Jan.
 
 # 🔥 News
 
+- *2026.01*: One paper is accepted by ACM TOS.
 - *2025.12*: One paper is accepted by ACM TOS.
 - *2025.11*: One paper is accepted by ACM TACO.
 - *2025.08*: One paper is accepted by ICCD 2025.
@@ -33,9 +34,11 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: Jan.
 [More...](news)
 
 # 📝 Publications 
-(# indicates equal contribution)
+(# indicates equal contribution, and * indicates corresponding author)
 
 <B>2026</B>
+
+Jianwei Liao, Zhibing Sha, Yuanbo Li, <B>Jun Li</B>*, Zhigang Cai, and Francois Trahay. Shuffler: A Novel Read Reclaim Scheme for Superblock Management in NAND Flash. <i>ACM Transactions on Storage (TOS)</i>, 2026. <font color="#FF0000">(CCF-A)
 
 - Zhibing Sha#, <B>Jun Li</B>#, Jiaojiao Wu, Zhigang Cai, Yuanquan Shi, Jianwei Liao. Prefetching Mapping Table Entries to Speed up Address Translation in DRAM-less SSDs. <i>ACM Transactions on Storage (TOS)</i>, 2026. <font color="#FF0000">(CCF-A)
 
