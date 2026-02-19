@@ -187,13 +187,15 @@ Journel Reviewer:
 
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
 
-- Wiley Advanced Science (AS)
-
 - Springer Journal of Computer Science and Technology (JCST)
 
 - Elsevier Journal of Systems Architecture (JSA)
 
 - Elsevier Sustainable Computing (SUSCOM)
+
+- Wiley Advanced Science (AS)
+
+- Wiley Advanced Electronic Materials (AELM)
 
 
 
