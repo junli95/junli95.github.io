@@ -157,6 +157,12 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 
 - National Scholarship for Master Student, 2019
 
+<span class='anchor' id='-teaching'></span>
+# 👨‍🏫 Teaching
+
+Operating System Design and Implementation, Nanjing University of Posts and Telecommunications, 2026 Spring.
+Compiler Principles, Nanjing University of Posts and Telecommunications, 2026 Spring.
+
 <span class='anchor' id='-Activities'></span>
 # 💬 Activities
 
