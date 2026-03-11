@@ -22,6 +22,7 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: Jan.
 
 # 🔥 News
 
+- *2026.03*: One paper is accepted by IEEE TCAD.
 - *2026.01*: One paper is accepted by ACM TOS.
 - *2025.12*: One paper is accepted by ACM TOS.
 - *2025.11*: One paper is accepted by ACM TACO.
@@ -37,6 +38,8 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: Jan.
 (# indicates equal contribution, and * indicates corresponding author)
 
 <B>2026</B>
+
+- Li Cai, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Jianwei Liao. PhasedRR: Read Reclaim Scheduling without Page-level Access Counting. <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2026. <font color="#FF0000">(CCF-A)
 
 - Jianwei Liao, Zhibing Sha, Yuanbo Li, <B>Jun Li</B>*, Zhigang Cai, Francois Trahay. Shuffler: A Novel Read Reclaim Scheme for Superblock Management in NAND Flash. <i>ACM Transactions on Storage (TOS)</i>, 2026. <font color="#FF0000">(CCF-A)
 
