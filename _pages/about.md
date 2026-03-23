@@ -195,6 +195,8 @@ Journel Reviewer:
 
 - IEEE Transactions on Device and Materials Reliability (TDMR)
 
+- IEEE Computer Architecture Letters (CAL)
+
 - IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
 
 - Springer Journal of Computer Science and Technology (JCST)
