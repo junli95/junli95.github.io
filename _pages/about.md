@@ -193,6 +193,8 @@ Journel Reviewer:
 
 - IEEE Transactions on Electron Devices (TED)
 
+- IEEE Transactions on Consumer Electronics (TCE)
+
 - IEEE Transactions on Device and Materials Reliability (TDMR)
 
 - IEEE Computer Architecture Letters (CAL)
