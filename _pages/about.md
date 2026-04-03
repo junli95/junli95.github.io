@@ -167,53 +167,9 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 <span class='anchor' id='-Activities'></span>
 # 💬 Activities
 
-Conference:
+Conference Service: Artifact Evaluation Committee of USENIX FAST 2026, Reviewer of APPT 2025, ...
 
-- Artifact Evaluation Committee, USENIX Conference on File and Storage Technologies (FAST), 2026
-
-- Reviewer, International Symposium on Advanced Parallel Processing Technology (APPT), 2025
-
-- Reviewer, International Conference on Computer Science and Application Engineering (CSAE), 2023
-
-Journel Reviewer:
-
-- ACM Transactions on Architecture and Code Optimization (TACO)
-
-- ACM Transactions on Storage (TOS)
-
-- IEEE Transactions on Computers (TC)
-
-- IEEE Transactions on Parallel and Distributed Systems (TPDS)
-  
-- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-
-- IEEE Transactions on Mobile Computing (TMC)
-
-- IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
-
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-
-- IEEE Transactions on Electron Devices (TED)
-
-- IEEE Transactions on Consumer Electronics (TCE)
-
-- IEEE Transactions on Device and Materials Reliability (TDMR)
-
-- IEEE Computer Architecture Letters (CAL)
-
-- IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
-
-- Springer Journal of Computer Science and Technology (JCST)
-
-- Elsevier Journal of Systems Architecture (JSA)
-
-- Elsevier Sustainable Computing (SUSCOM)
-
-- Wiley Advanced Science (AS)
-
-- Wiley Advanced Electronic Materials (AELM)
-
-
+Journel Reviewer: ACM TACO, ACM TOS, IEEE TC, IEEE TPDS, IEEE TCAD, IEEE TMC, IEEE TVLSI, IEEE TCSVT, IEEE TED, IEEE TCE, IEEE TDMR, IEEE CAL, IEEE JETCAS, JCST, JSA, SUSCOM, Advanced Science, Advanced Electronic Materials, ...
 
 # Clustrmaps
 <a href="https://clustrmaps.com/site/1bh2g"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TthGBfDr71i-ZnwuJnTZoelvFFJMtZM58lojwOSsqZg&cl=ffffff" /></a>
