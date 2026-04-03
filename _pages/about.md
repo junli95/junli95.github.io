@@ -187,6 +187,8 @@ Journel Reviewer:
   
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
+- IEEE Transactions on Mobile Computing (TMC)
+
 - IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
 
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
