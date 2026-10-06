@@ -45,6 +45,8 @@ Click [here](CV.pdf) to see the up-to-date version of my CV. (Last updated: Jan.
 
 - Zhibing Sha#, <B>Jun Li</B>#, Jiaojiao Wu, Zhigang Cai, Yuanquan Shi, Jianwei Liao. Prefetching Mapping Table Entries to Speed up Address Translation in DRAM-less SSDs. <i>ACM Transactions on Storage (TOS)</i>, 2026. <font color="#FF0000">(CCF-A)
 
+- <B>Jun Li</B>, Liang Chen, Wenzhang Wu, Mingzhe Hu. Toward Continuous Service in Enterprise-Level Distributed Block Storage Systems. <i>International Conference on Parallel Processing (ICPP ’26)</i>, 2026.
+
 <B>2025</B>
 
 - Fan Yang, Jiaojiao Wu, Chenqi Xiao, <B>Jun Li</B>, Zhibing Sha, Zhigang Cai, Yuanquan Shi, Kanlun Tan, Jianwei Liao. Minimizing overhead of out-of-channel data exchanges to balance wear-outs and I/Os in RAID-enabled SSDs. <i>ACM Transactions on Architecture and Code Optimization (TACO)</i>, 2025. <font color="#FF0000">(CCF-A)
