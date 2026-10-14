@@ -169,6 +169,8 @@ Replication and Garbage Collection in RAID-enabled SSDs. <i>ACM SIGPLAN/SIGBED I
 <span class='anchor' id='-Activities'></span>
 # 💬 Activities
 
+- Executive Committee Member, CCF Technical Committee on Computer Architecture (CCF体系结构专委会执行委员), 2026-
+
 - Conference Service: Artifact Evaluation Committee of USENIX FAST 2027, Artifact Evaluation Committee of USENIX FAST 2026, Reviewer of APPT 2025, ...
 
 - Journel Reviewer: TACO, TOS, TC, TPDS, TCAD, TKDE, TDSC, TMC, TVLSI, TCSVT, TCC, TR, TED, TCE, TDMR, TETC, CAL, IoT-J, JETCAS, JCST, JSA, SUSCOM, Advanced Science, Advanced Electronic Materials, ...
